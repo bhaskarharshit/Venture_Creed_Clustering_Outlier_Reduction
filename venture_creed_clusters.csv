@@ -1,49 +1,73 @@
 Customer_ID,Cluster,Segment
-Accoount 1,2,At-Risk or New Customers
-Accoount 2,9,
-Accoount 3,9,
-Accoount 4,2,At-Risk or New Customers
-Accoount 5,2,At-Risk or New Customers
-Accoount 6,2,At-Risk or New Customers
-Accoount 7,9,
+Accoount 1,3,High Potential Prospects
+Accoount 2,1,Occasional Bargain Seekers
+Accoount 3,1,Occasional Bargain Seekers
+Accoount 4,3,High Potential Prospects
+Accoount 5,3,High Potential Prospects
+Accoount 6,3,High Potential Prospects
+Accoount 7,1,Occasional Bargain Seekers
 Accoount 8,1,Occasional Bargain Seekers
-Accoount 9,2,At-Risk or New Customers
-Accoount 11,6,
-Accoount 12,5,
-Accoount 13,2,At-Risk or New Customers
-Accoount 18,6,
-Accoount 21,8,
-Accoount 22,8,
-Accoount 26,8,
-Accoount 27,7,
-Accoount 28,6,
-Accoount 29,6,
-Accoount 30,7,
-Accoount 32,3,High Potential Prospects
-Accoount 41,4,
-Accoount 42,2,At-Risk or New Customers
-Accoount 43,2,At-Risk or New Customers
-Accoount 44,2,At-Risk or New Customers
-Accoount 45,9,
-Accoount 46,2,At-Risk or New Customers
-Accoount 47,2,At-Risk or New Customers
-Accoount 48,7,
-Accoount 49,2,At-Risk or New Customers
-Accoount 52,8,
-Accoount 55,6,
-Accoount 56,2,At-Risk or New Customers
-Accoount 57,4,
-Accoount 58,3,High Potential Prospects
-Accoount 60,3,High Potential Prospects
-Accoount 61,2,At-Risk or New Customers
+Accoount 9,3,High Potential Prospects
+Accoount 10,4,
+Accoount 11,8,
+Accoount 12,6,
+Accoount 13,3,High Potential Prospects
+Accoount 14,6,
+Accoount 15,7,
+Accoount 16,2,At-Risk or New Customers
+Accoount 17,4,
+Accoount 18,8,
+Accoount 19,4,
+Accoount 20,4,
+Accoount 21,2,At-Risk or New Customers
+Accoount 22,6,
+Accoount 23,7,
+Accoount 24,8,
+Accoount 25,6,
+Accoount 26,2,At-Risk or New Customers
+Accoount 27,0,Loyal High Spenders
+Accoount 28,7,
+Accoount 29,8,
+Accoount 30,0,Loyal High Spenders
+Accoount 31,2,At-Risk or New Customers
+Accoount 32,4,
+Accoount 33,6,
+Accoount 34,0,Loyal High Spenders
+Accoount 35,8,
+Accoount 36,6,
+Accoount 37,9,
+Accoount 38,7,
+Accoount 39,6,
+Accoount 41,9,
+Accoount 42,3,High Potential Prospects
+Accoount 43,3,High Potential Prospects
+Accoount 44,3,High Potential Prospects
+Accoount 45,1,Occasional Bargain Seekers
+Accoount 46,3,High Potential Prospects
+Accoount 47,3,High Potential Prospects
+Accoount 48,0,Loyal High Spenders
+Accoount 49,3,High Potential Prospects
+Accoount 50,6,
+Accoount 51,7,
+Accoount 52,2,At-Risk or New Customers
+Accoount 53,0,Loyal High Spenders
+Accoount 54,7,
+Accoount 55,8,
+Accoount 56,3,High Potential Prospects
+Accoount 57,9,
+Accoount 58,8,
+Accoount 59,8,
+Accoount 60,8,
+Accoount 61,3,High Potential Prospects
 Accoount 62,1,Occasional Bargain Seekers
 Accoount 63,1,Occasional Bargain Seekers
 Accoount 64,1,Occasional Bargain Seekers
 Accoount 65,1,Occasional Bargain Seekers
 Accoount 66,1,Occasional Bargain Seekers
+Accoount 67,0,Loyal High Spenders
 Accoount 68,1,Occasional Bargain Seekers
-Accoount 69,3,High Potential Prospects
-Accoount 70,9,
+Accoount 69,4,
+Accoount 70,3,High Potential Prospects
 Accoount 71,1,Occasional Bargain Seekers
 Accoount 72,1,Occasional Bargain Seekers
 Accoount 73,1,Occasional Bargain Seekers
@@ -51,55 +75,64 @@ Accoount 74,1,Occasional Bargain Seekers
 Accoount 75,1,Occasional Bargain Seekers
 Accoount 76,1,Occasional Bargain Seekers
 Accoount 77,1,Occasional Bargain Seekers
-Accoount 78,9,
-Accoount 79,2,At-Risk or New Customers
+Accoount 78,1,Occasional Bargain Seekers
+Accoount 79,3,High Potential Prospects
 Accoount 80,1,Occasional Bargain Seekers
+Accoount 81,7,
 Accoount 82,1,Occasional Bargain Seekers
-Accoount 83,2,At-Risk or New Customers
-Accoount 84,4,
-Accoount 85,9,
-Accoount 86,2,At-Risk or New Customers
-Accoount 87,9,
-Accoount 88,9,
-Accoount 89,2,At-Risk or New Customers
-Accoount 90,2,At-Risk or New Customers
-Accoount 91,2,At-Risk or New Customers
-Accoount 92,2,At-Risk or New Customers
-Accoount 93,2,At-Risk or New Customers
-Accoount 94,0,Loyal High Spenders
-Accoount 95,2,At-Risk or New Customers
-Accoount 97,6,
-Accoount 98,3,High Potential Prospects
-Accoount 100,3,High Potential Prospects
-Accoount 103,6,
-Accoount 105,5,
-Accoount 106,9,
-Accoount 107,6,
-Accoount 108,8,
-Accoount 109,5,
-Accoount 110,5,
-Accoount 111,2,At-Risk or New Customers
-Accoount 113,6,
-Accoount 114,3,High Potential Prospects
-Accoount 115,8,
-Accoount 116,4,
-Accoount 117,7,
-Accoount 118,7,
-Accoount 119,2,At-Risk or New Customers
-Accoount 120,2,At-Risk or New Customers
-Accoount 121,4,
-Accoount 122,2,At-Risk or New Customers
+Accoount 83,3,High Potential Prospects
+Accoount 84,9,
+Accoount 85,1,Occasional Bargain Seekers
+Accoount 86,3,High Potential Prospects
+Accoount 87,1,Occasional Bargain Seekers
+Accoount 88,1,Occasional Bargain Seekers
+Accoount 89,3,High Potential Prospects
+Accoount 90,3,High Potential Prospects
+Accoount 91,3,High Potential Prospects
+Accoount 92,3,High Potential Prospects
+Accoount 93,3,High Potential Prospects
+Accoount 94,3,High Potential Prospects
+Accoount 95,3,High Potential Prospects
+Accoount 96,6,
+Accoount 97,4,
+Accoount 98,4,
+Accoount 99,6,
+Accoount 100,8,
+Accoount 102,8,
+Accoount 103,8,
+Accoount 105,6,
+Accoount 106,3,High Potential Prospects
+Accoount 107,4,
+Accoount 108,2,At-Risk or New Customers
+Accoount 109,7,
+Accoount 110,6,
+Accoount 111,3,High Potential Prospects
+Accoount 112,6,
+Accoount 113,8,
+Accoount 114,4,
+Accoount 115,2,At-Risk or New Customers
+Accoount 116,5,
+Accoount 117,0,Loyal High Spenders
+Accoount 118,0,Loyal High Spenders
+Accoount 119,3,High Potential Prospects
+Accoount 120,3,High Potential Prospects
+Accoount 121,9,
+Accoount 122,3,High Potential Prospects
 Accoount 123,1,Occasional Bargain Seekers
-Accoount 124,2,At-Risk or New Customers
-Accoount 127,4,
-Accoount 129,2,At-Risk or New Customers
-Accoount 130,7,
-Accoount 131,6,
-Accoount 132,6,
-Accoount 134,4,
-Accoount 135,9,
-Accoount 136,8,
-Accoount 137,8,
+Accoount 124,3,High Potential Prospects
+Accoount 125,6,
+Accoount 126,6,
+Accoount 127,9,
+Accoount 128,6,
+Accoount 129,3,High Potential Prospects
+Accoount 130,0,Loyal High Spenders
+Accoount 131,4,
+Accoount 132,4,
+Accoount 133,6,
+Accoount 134,9,
+Accoount 135,3,High Potential Prospects
+Accoount 136,2,At-Risk or New Customers
+Accoount 137,2,At-Risk or New Customers
 Accoount 138,1,Occasional Bargain Seekers
 Accoount 139,1,Occasional Bargain Seekers
 Accoount 140,1,Occasional Bargain Seekers
@@ -109,233 +142,269 @@ Accoount 143,1,Occasional Bargain Seekers
 Accoount 144,1,Occasional Bargain Seekers
 Accoount 145,1,Occasional Bargain Seekers
 Accoount 146,1,Occasional Bargain Seekers
-Accoount 148,5,
-Accoount 149,2,At-Risk or New Customers
-Accoount 150,2,At-Risk or New Customers
+Accoount 147,4,
+Accoount 148,1,Occasional Bargain Seekers
+Accoount 149,3,High Potential Prospects
+Accoount 150,1,Occasional Bargain Seekers
 Accoount 151,1,Occasional Bargain Seekers
 Accoount 152,1,Occasional Bargain Seekers
 Accoount 153,1,Occasional Bargain Seekers
 Accoount 154,1,Occasional Bargain Seekers
 Accoount 155,1,Occasional Bargain Seekers
-Accoount 156,9,
-Accoount 157,2,At-Risk or New Customers
+Accoount 156,1,Occasional Bargain Seekers
+Accoount 157,3,High Potential Prospects
 Accoount 158,1,Occasional Bargain Seekers
-Accoount 159,2,At-Risk or New Customers
-Accoount 160,9,
-Accoount 161,4,
+Accoount 159,3,High Potential Prospects
+Accoount 160,1,Occasional Bargain Seekers
+Accoount 161,9,
 Accoount 162,1,Occasional Bargain Seekers
-Accoount 163,4,
-Accoount 164,2,At-Risk or New Customers
-Accoount 165,9,
-Accoount 166,4,
-Accoount 167,2,At-Risk or New Customers
-Accoount 168,4,
-Accoount 169,2,At-Risk or New Customers
-Accoount 170,2,At-Risk or New Customers
-Accoount 171,2,At-Risk or New Customers
-Accoount 172,2,At-Risk or New Customers
-Accoount 173,4,
-Accoount 174,4,
-Accoount 175,9,
-Accoount 176,2,At-Risk or New Customers
-Accoount 177,2,At-Risk or New Customers
-Accoount 178,0,Loyal High Spenders
-Accoount 179,9,
-Accoount 180,2,At-Risk or New Customers
-Accoount 181,9,
-Accoount 184,3,High Potential Prospects
-Accoount 187,7,
-Accoount 189,3,High Potential Prospects
-Accoount 191,8,
-Accoount 195,5,
-Accoount 197,8,
-Accoount 198,5,
-Accoount 199,6,
-Accoount 200,5,
-Accoount 201,5,
-Accoount 202,3,High Potential Prospects
-Accoount 203,9,
-Accoount 204,6,
-Accoount 205,3,High Potential Prospects
-Accoount 206,4,
-Accoount 207,7,
-Accoount 208,2,At-Risk or New Customers
-Accoount 209,4,
-Accoount 210,2,At-Risk or New Customers
-Accoount 211,2,At-Risk or New Customers
-Accoount 212,4,
-Accoount 213,7,
-Accoount 214,7,
-Accoount 215,6,
-Accoount 216,2,At-Risk or New Customers
-Accoount 217,3,High Potential Prospects
-Accoount 218,2,At-Risk or New Customers
-Accoount 219,2,At-Risk or New Customers
-Accoount 220,6,
-Accoount 221,2,At-Risk or New Customers
-Accoount 222,2,At-Risk or New Customers
-Accoount 223,5,
-Accoount 225,5,
-Accoount 227,9,
-Accoount 228,2,At-Risk or New Customers
-Accoount 229,4,
-Accoount 230,9,
+Accoount 163,5,
+Accoount 164,3,High Potential Prospects
+Accoount 165,1,Occasional Bargain Seekers
+Accoount 166,5,
+Accoount 167,3,High Potential Prospects
+Accoount 168,9,
+Accoount 169,3,High Potential Prospects
+Accoount 170,3,High Potential Prospects
+Accoount 171,3,High Potential Prospects
+Accoount 172,1,Occasional Bargain Seekers
+Accoount 173,9,
+Accoount 174,9,
+Accoount 175,1,Occasional Bargain Seekers
+Accoount 176,3,High Potential Prospects
+Accoount 177,3,High Potential Prospects
+Accoount 178,3,High Potential Prospects
+Accoount 179,3,High Potential Prospects
+Accoount 180,3,High Potential Prospects
+Accoount 181,1,Occasional Bargain Seekers
+Accoount 182,4,
+Accoount 183,2,At-Risk or New Customers
+Accoount 184,4,
+Accoount 185,6,
+Accoount 186,6,
+Accoount 187,0,Loyal High Spenders
+Accoount 188,2,At-Risk or New Customers
+Accoount 189,4,
+Accoount 190,8,
+Accoount 191,2,At-Risk or New Customers
+Accoount 192,4,
+Accoount 193,4,
+Accoount 194,4,
+Accoount 195,7,
+Accoount 197,2,At-Risk or New Customers
+Accoount 198,6,
+Accoount 199,8,
+Accoount 200,8,
+Accoount 201,7,
+Accoount 202,4,
+Accoount 203,3,High Potential Prospects
+Accoount 204,4,
+Accoount 205,4,
+Accoount 206,9,
+Accoount 207,0,Loyal High Spenders
+Accoount 208,3,High Potential Prospects
+Accoount 209,9,
+Accoount 210,3,High Potential Prospects
+Accoount 211,3,High Potential Prospects
+Accoount 212,5,
+Accoount 213,0,Loyal High Spenders
+Accoount 214,0,Loyal High Spenders
+Accoount 215,4,
+Accoount 216,3,High Potential Prospects
+Accoount 217,4,
+Accoount 218,3,High Potential Prospects
+Accoount 219,3,High Potential Prospects
+Accoount 220,4,
+Accoount 221,3,High Potential Prospects
+Accoount 222,3,High Potential Prospects
+Accoount 223,8,
+Accoount 225,6,
+Accoount 226,8,
+Accoount 227,1,Occasional Bargain Seekers
+Accoount 228,3,High Potential Prospects
+Accoount 229,5,
+Accoount 230,3,High Potential Prospects
 Accoount 231,1,Occasional Bargain Seekers
 Accoount 232,1,Occasional Bargain Seekers
-Accoount 233,2,At-Risk or New Customers
+Accoount 233,3,High Potential Prospects
 Accoount 234,1,Occasional Bargain Seekers
 Accoount 235,1,Occasional Bargain Seekers
 Accoount 236,1,Occasional Bargain Seekers
 Accoount 237,1,Occasional Bargain Seekers
 Accoount 238,1,Occasional Bargain Seekers
+Accoount 239,7,
 Accoount 240,1,Occasional Bargain Seekers
 Accoount 241,1,Occasional Bargain Seekers
 Accoount 242,1,Occasional Bargain Seekers
-Accoount 243,9,
-Accoount 245,4,
-Accoount 246,5,
+Accoount 243,1,Occasional Bargain Seekers
+Accoount 244,8,
+Accoount 245,9,
+Accoount 246,7,
+Accoount 247,5,
 Accoount 248,1,Occasional Bargain Seekers
-Accoount 249,4,
+Accoount 249,9,
 Accoount 250,1,Occasional Bargain Seekers
-Accoount 252,7,
-Accoount 253,9,
-Accoount 254,2,At-Risk or New Customers
+Accoount 252,0,Loyal High Spenders
+Accoount 253,3,High Potential Prospects
+Accoount 254,3,High Potential Prospects
 Accoount 255,5,
-Accoount 256,9,
-Accoount 257,2,At-Risk or New Customers
-Accoount 258,2,At-Risk or New Customers
-Accoount 259,4,
-Accoount 260,4,
-Accoount 261,4,
-Accoount 262,4,
-Accoount 263,4,
+Accoount 256,1,Occasional Bargain Seekers
+Accoount 257,3,High Potential Prospects
+Accoount 258,3,High Potential Prospects
+Accoount 259,9,
+Accoount 260,9,
+Accoount 261,9,
+Accoount 262,9,
+Accoount 263,9,
 Accoount 264,1,Occasional Bargain Seekers
-Accoount 265,4,
-Accoount 266,0,Loyal High Spenders
-Accoount 267,2,At-Risk or New Customers
-Accoount 268,2,At-Risk or New Customers
-Accoount 269,2,At-Risk or New Customers
-Accoount 270,4,
-Accoount 271,4,
-Accoount 272,9,
-Accoount 273,2,At-Risk or New Customers
-Accoount 274,9,
-Accoount 275,2,At-Risk or New Customers
-Accoount 276,2,At-Risk or New Customers
-Accoount 277,2,At-Risk or New Customers
-Accoount 278,2,At-Risk or New Customers
+Accoount 265,9,
+Accoount 266,1,Occasional Bargain Seekers
+Accoount 267,3,High Potential Prospects
+Accoount 268,3,High Potential Prospects
+Accoount 269,3,High Potential Prospects
+Accoount 270,9,
+Accoount 271,9,
+Accoount 272,1,Occasional Bargain Seekers
+Accoount 273,1,Occasional Bargain Seekers
+Accoount 274,1,Occasional Bargain Seekers
+Accoount 275,3,High Potential Prospects
+Accoount 276,3,High Potential Prospects
+Accoount 277,3,High Potential Prospects
+Accoount 278,3,High Potential Prospects
 Accoount 279,1,Occasional Bargain Seekers
-Accoount 284,6,
-Accoount 285,5,
-Accoount 291,6,
-Accoount 292,3,High Potential Prospects
-Accoount 293,6,
-Accoount 294,6,
-Accoount 296,3,High Potential Prospects
-Accoount 297,4,
-Accoount 298,3,High Potential Prospects
-Accoount 300,7,
-Accoount 301,2,At-Risk or New Customers
-Accoount 302,2,At-Risk or New Customers
-Accoount 304,5,
-Accoount 306,2,At-Risk or New Customers
-Accoount 307,4,
-Accoount 308,2,At-Risk or New Customers
-Accoount 309,9,
-Accoount 311,9,
-Accoount 312,2,At-Risk or New Customers
-Accoount 313,8,
+Accoount 280,6,
+Accoount 281,7,
+Accoount 282,8,
+Accoount 283,2,At-Risk or New Customers
+Accoount 284,4,
+Accoount 285,6,
+Accoount 286,6,
+Accoount 287,2,At-Risk or New Customers
+Accoount 288,8,
+Accoount 289,6,
+Accoount 290,7,
+Accoount 291,8,
+Accoount 292,4,
+Accoount 293,8,
+Accoount 294,8,
+Accoount 295,8,
+Accoount 296,8,
+Accoount 297,9,
+Accoount 298,8,
+Accoount 299,4,
+Accoount 300,0,Loyal High Spenders
+Accoount 301,3,High Potential Prospects
+Accoount 302,3,High Potential Prospects
+Accoount 303,7,
+Accoount 304,6,
+Accoount 305,2,At-Risk or New Customers
+Accoount 306,3,High Potential Prospects
+Accoount 307,9,
+Accoount 308,3,High Potential Prospects
+Accoount 309,1,Occasional Bargain Seekers
+Accoount 310,8,
+Accoount 311,3,High Potential Prospects
+Accoount 312,3,High Potential Prospects
+Accoount 313,2,At-Risk or New Customers
 Accoount 314,1,Occasional Bargain Seekers
-Accoount 315,3,High Potential Prospects
-Accoount 316,2,At-Risk or New Customers
-Accoount 317,2,At-Risk or New Customers
-Accoount 318,2,At-Risk or New Customers
-Accoount 319,2,At-Risk or New Customers
-Accoount 320,2,At-Risk or New Customers
+Accoount 315,8,
+Accoount 316,3,High Potential Prospects
+Accoount 317,3,High Potential Prospects
+Accoount 318,3,High Potential Prospects
+Accoount 319,3,High Potential Prospects
+Accoount 320,3,High Potential Prospects
 Accoount 321,1,Occasional Bargain Seekers
 Accoount 322,1,Occasional Bargain Seekers
 Accoount 323,1,Occasional Bargain Seekers
 Accoount 324,1,Occasional Bargain Seekers
-Accoount 325,9,
+Accoount 325,1,Occasional Bargain Seekers
 Accoount 326,1,Occasional Bargain Seekers
 Accoount 327,1,Occasional Bargain Seekers
-Accoount 328,4,
-Accoount 329,2,At-Risk or New Customers
+Accoount 328,5,
+Accoount 329,3,High Potential Prospects
 Accoount 330,1,Occasional Bargain Seekers
 Accoount 331,1,Occasional Bargain Seekers
 Accoount 332,1,Occasional Bargain Seekers
-Accoount 333,2,At-Risk or New Customers
+Accoount 333,3,High Potential Prospects
 Accoount 334,1,Occasional Bargain Seekers
 Accoount 335,1,Occasional Bargain Seekers
-Accoount 336,3,High Potential Prospects
-Accoount 337,2,At-Risk or New Customers
-Accoount 338,2,At-Risk or New Customers
+Accoount 336,8,
+Accoount 337,3,High Potential Prospects
+Accoount 338,3,High Potential Prospects
 Accoount 339,1,Occasional Bargain Seekers
-Accoount 340,2,At-Risk or New Customers
+Accoount 340,3,High Potential Prospects
 Accoount 341,1,Occasional Bargain Seekers
 Accoount 342,1,Occasional Bargain Seekers
 Accoount 343,1,Occasional Bargain Seekers
-Accoount 344,9,
-Accoount 345,9,
+Accoount 344,3,High Potential Prospects
+Accoount 345,3,High Potential Prospects
+Accoount 346,5,
 Accoount 347,1,Occasional Bargain Seekers
 Accoount 348,1,Occasional Bargain Seekers
-Accoount 350,4,
-Accoount 351,2,At-Risk or New Customers
-Accoount 352,4,
-Accoount 353,4,
-Accoount 354,4,
-Accoount 356,2,At-Risk or New Customers
-Accoount 357,2,At-Risk or New Customers
-Accoount 358,4,
+Accoount 349,8,
+Accoount 350,9,
+Accoount 351,3,High Potential Prospects
+Accoount 352,9,
+Accoount 353,5,
+Accoount 354,9,
+Accoount 355,0,Loyal High Spenders
+Accoount 356,3,High Potential Prospects
+Accoount 357,3,High Potential Prospects
+Accoount 358,5,
 Accoount 359,5,
 Accoount 360,1,Occasional Bargain Seekers
-Accoount 361,2,At-Risk or New Customers
+Accoount 361,3,High Potential Prospects
 Accoount 362,1,Occasional Bargain Seekers
 Accoount 363,1,Occasional Bargain Seekers
 Accoount 364,1,Occasional Bargain Seekers
-Accoount 365,2,At-Risk or New Customers
-Accoount 366,2,At-Risk or New Customers
-Accoount 367,2,At-Risk or New Customers
-Accoount 368,2,At-Risk or New Customers
+Accoount 365,3,High Potential Prospects
+Accoount 366,3,High Potential Prospects
+Accoount 367,3,High Potential Prospects
+Accoount 368,3,High Potential Prospects
 Accoount 369,1,Occasional Bargain Seekers
-Accoount 370,2,At-Risk or New Customers
+Accoount 370,3,High Potential Prospects
 Accoount 371,1,Occasional Bargain Seekers
-Accoount 373,6,
-Accoount 374,6,
-Accoount 375,2,At-Risk or New Customers
-Accoount 377,6,
-Accoount 378,5,
-Accoount 379,2,At-Risk or New Customers
-Accoount 380,8,
-Accoount 382,9,
-Accoount 383,4,
-Accoount 385,9,
-Accoount 386,6,
-Accoount 387,5,
-Accoount 388,3,High Potential Prospects
-Accoount 389,2,At-Risk or New Customers
-Accoount 390,2,At-Risk or New Customers
-Accoount 391,9,
-Accoount 392,6,
-Accoount 393,3,High Potential Prospects
-Accoount 395,3,High Potential Prospects
-Accoount 396,6,
-Accoount 397,2,At-Risk or New Customers
-Accoount 398,9,
-Accoount 399,2,At-Risk or New Customers
-Accoount 400,2,At-Risk or New Customers
+Accoount 372,6,
+Accoount 373,4,
+Accoount 374,8,
+Accoount 375,3,High Potential Prospects
+Accoount 376,2,At-Risk or New Customers
+Accoount 377,8,
+Accoount 378,7,
+Accoount 379,3,High Potential Prospects
+Accoount 380,2,At-Risk or New Customers
+Accoount 381,6,
+Accoount 382,1,Occasional Bargain Seekers
+Accoount 383,5,
+Accoount 384,6,
+Accoount 385,1,Occasional Bargain Seekers
+Accoount 386,4,
+Accoount 387,6,
+Accoount 388,4,
+Accoount 389,3,High Potential Prospects
+Accoount 390,3,High Potential Prospects
+Accoount 391,1,Occasional Bargain Seekers
+Accoount 392,4,
+Accoount 393,4,
+Accoount 394,7,
+Accoount 395,8,
+Accoount 396,4,
+Accoount 397,3,High Potential Prospects
+Accoount 398,3,High Potential Prospects
+Accoount 399,3,High Potential Prospects
+Accoount 400,3,High Potential Prospects
 Accoount 401,1,Occasional Bargain Seekers
 Accoount 402,1,Occasional Bargain Seekers
 Accoount 403,1,Occasional Bargain Seekers
 Accoount 404,1,Occasional Bargain Seekers
 Accoount 405,1,Occasional Bargain Seekers
 Accoount 406,1,Occasional Bargain Seekers
-Accoount 407,9,
-Accoount 408,2,At-Risk or New Customers
-Accoount 409,2,At-Risk or New Customers
+Accoount 407,1,Occasional Bargain Seekers
+Accoount 408,3,High Potential Prospects
+Accoount 409,3,High Potential Prospects
 Accoount 410,1,Occasional Bargain Seekers
 Accoount 411,1,Occasional Bargain Seekers
-Accoount 412,2,At-Risk or New Customers
+Accoount 412,3,High Potential Prospects
 Accoount 413,5,
 Accoount 414,1,Occasional Bargain Seekers
 Accoount 415,1,Occasional Bargain Seekers
@@ -343,143 +412,177 @@ Accoount 416,1,Occasional Bargain Seekers
 Accoount 417,1,Occasional Bargain Seekers
 Accoount 418,1,Occasional Bargain Seekers
 Accoount 419,1,Occasional Bargain Seekers
-Accoount 420,2,At-Risk or New Customers
+Accoount 420,3,High Potential Prospects
 Accoount 421,1,Occasional Bargain Seekers
-Accoount 422,4,
+Accoount 422,9,
 Accoount 423,1,Occasional Bargain Seekers
-Accoount 424,2,At-Risk or New Customers
-Accoount 425,4,
-Accoount 428,1,Occasional Bargain Seekers
+Accoount 424,3,High Potential Prospects
+Accoount 425,9,
+Accoount 426,2,At-Risk or New Customers
+Accoount 427,5,
+Accoount 428,5,
 Accoount 429,1,Occasional Bargain Seekers
 Accoount 430,1,Occasional Bargain Seekers
 Accoount 431,1,Occasional Bargain Seekers
 Accoount 432,1,Occasional Bargain Seekers
 Accoount 433,1,Occasional Bargain Seekers
-Accoount 434,4,
-Accoount 435,0,Loyal High Spenders
+Accoount 434,9,
+Accoount 435,3,High Potential Prospects
+Accoount 436,7,
 Accoount 437,1,Occasional Bargain Seekers
-Accoount 438,4,
-Accoount 439,4,
-Accoount 440,2,At-Risk or New Customers
-Accoount 442,9,
-Accoount 443,9,
-Accoount 444,2,At-Risk or New Customers
-Accoount 445,4,
-Accoount 446,4,
-Accoount 447,4,
-Accoount 448,2,At-Risk or New Customers
-Accoount 449,2,At-Risk or New Customers
-Accoount 450,2,At-Risk or New Customers
-Accoount 451,2,At-Risk or New Customers
-Accoount 452,2,At-Risk or New Customers
-Accoount 453,2,At-Risk or New Customers
-Accoount 454,2,At-Risk or New Customers
-Accoount 455,4,
-Accoount 456,2,At-Risk or New Customers
+Accoount 438,9,
+Accoount 439,9,
+Accoount 440,3,High Potential Prospects
+Accoount 442,3,High Potential Prospects
+Accoount 443,1,Occasional Bargain Seekers
+Accoount 444,3,High Potential Prospects
+Accoount 445,9,
+Accoount 446,9,
+Accoount 447,9,
+Accoount 448,3,High Potential Prospects
+Accoount 449,1,Occasional Bargain Seekers
+Accoount 450,3,High Potential Prospects
+Accoount 451,3,High Potential Prospects
+Accoount 452,3,High Potential Prospects
+Accoount 453,3,High Potential Prospects
+Accoount 454,3,High Potential Prospects
+Accoount 455,9,
+Accoount 456,3,High Potential Prospects
 Accoount 457,1,Occasional Bargain Seekers
 Accoount 458,1,Occasional Bargain Seekers
-Accoount 459,9,
+Accoount 459,3,High Potential Prospects
 Accoount 460,1,Occasional Bargain Seekers
 Accoount 461,1,Occasional Bargain Seekers
-Accoount 462,4,
-Accoount 463,2,At-Risk or New Customers
-Accoount 464,9,
-Accoount 466,8,
-Accoount 467,6,
-Accoount 468,3,High Potential Prospects
-Accoount 469,5,
-Accoount 470,2,At-Risk or New Customers
-Accoount 472,3,High Potential Prospects
-Accoount 473,2,At-Risk or New Customers
-Accoount 474,5,
-Accoount 475,5,
-Accoount 476,8,
-Accoount 477,9,
-Accoount 481,5,
-Accoount 483,6,
-Accoount 484,4,
-Accoount 485,4,
-Accoount 486,2,At-Risk or New Customers
-Accoount 487,2,At-Risk or New Customers
-Accoount 488,2,At-Risk or New Customers
-Accoount 489,2,At-Risk or New Customers
-Accoount 490,9,
-Accoount 492,6,
-Accoount 493,7,
-Accoount 494,4,
-Accoount 495,3,High Potential Prospects
-Accoount 496,3,High Potential Prospects
-Accoount 497,9,
-Accoount 498,9,
+Accoount 462,9,
+Accoount 463,3,High Potential Prospects
+Accoount 464,3,High Potential Prospects
+Accoount 465,2,At-Risk or New Customers
+Accoount 466,2,At-Risk or New Customers
+Accoount 467,4,
+Accoount 468,4,
+Accoount 469,6,
+Accoount 470,3,High Potential Prospects
+Accoount 472,8,
+Accoount 473,3,High Potential Prospects
+Accoount 474,7,
+Accoount 475,7,
+Accoount 476,2,At-Risk or New Customers
+Accoount 477,1,Occasional Bargain Seekers
+Accoount 479,4,
+Accoount 480,7,
+Accoount 481,7,
+Accoount 482,7,
+Accoount 483,8,
+Accoount 484,9,
+Accoount 485,9,
+Accoount 486,3,High Potential Prospects
+Accoount 487,3,High Potential Prospects
+Accoount 488,3,High Potential Prospects
+Accoount 489,3,High Potential Prospects
+Accoount 490,3,High Potential Prospects
+Accoount 491,4,
+Accoount 492,4,
+Accoount 493,0,Loyal High Spenders
+Accoount 494,9,
+Accoount 495,4,
+Accoount 496,4,
+Accoount 497,1,Occasional Bargain Seekers
+Accoount 498,3,High Potential Prospects
+Accoount 499,8,
+Accoount 500,5,
 Accoount 501,1,Occasional Bargain Seekers
 Accoount 502,1,Occasional Bargain Seekers
-Accoount 503,2,At-Risk or New Customers
+Accoount 503,3,High Potential Prospects
 Accoount 504,1,Occasional Bargain Seekers
 Accoount 505,1,Occasional Bargain Seekers
 Accoount 506,1,Occasional Bargain Seekers
 Accoount 507,1,Occasional Bargain Seekers
 Accoount 508,1,Occasional Bargain Seekers
-Accoount 509,9,
-Accoount 511,2,At-Risk or New Customers
-Accoount 512,2,At-Risk or New Customers
-Accoount 513,7,
+Accoount 509,3,High Potential Prospects
+Accoount 510,5,
+Accoount 511,3,High Potential Prospects
+Accoount 512,3,High Potential Prospects
+Accoount 513,0,Loyal High Spenders
 Accoount 514,1,Occasional Bargain Seekers
+Accoount 515,5,
 Accoount 516,1,Occasional Bargain Seekers
-Accoount 517,3,High Potential Prospects
+Accoount 517,4,
 Accoount 518,1,Occasional Bargain Seekers
 Accoount 519,1,Occasional Bargain Seekers
 Accoount 520,1,Occasional Bargain Seekers
-Accoount 521,9,
-Accoount 522,2,At-Risk or New Customers
-Accoount 523,2,At-Risk or New Customers
-Accoount 524,2,At-Risk or New Customers
-Accoount 525,9,
-Accoount 526,2,At-Risk or New Customers
-Accoount 527,4,
-Accoount 528,4,
-Accoount 529,4,
-Accoount 530,4,
-Accoount 531,2,At-Risk or New Customers
-Accoount 532,4,
-Accoount 533,4,
-Accoount 534,4,
-Accoount 535,2,At-Risk or New Customers
-Accoount 536,0,Loyal High Spenders
+Accoount 521,3,High Potential Prospects
+Accoount 522,1,Occasional Bargain Seekers
+Accoount 523,3,High Potential Prospects
+Accoount 524,3,High Potential Prospects
+Accoount 525,1,Occasional Bargain Seekers
+Accoount 526,3,High Potential Prospects
+Accoount 527,9,
+Accoount 528,9,
+Accoount 529,9,
+Accoount 530,9,
+Accoount 531,3,High Potential Prospects
+Accoount 532,9,
+Accoount 533,9,
+Accoount 534,9,
+Accoount 535,3,High Potential Prospects
+Accoount 536,1,Occasional Bargain Seekers
 Accoount 537,1,Occasional Bargain Seekers
-Accoount 538,2,At-Risk or New Customers
-Accoount 539,2,At-Risk or New Customers
+Accoount 538,3,High Potential Prospects
+Accoount 539,3,High Potential Prospects
 Accoount 540,1,Occasional Bargain Seekers
-Accoount 541,2,At-Risk or New Customers
-Accoount 542,2,At-Risk or New Customers
-Accoount 543,2,At-Risk or New Customers
-Accoount 544,9,
-Accoount 545,2,At-Risk or New Customers
-Accoount 546,2,At-Risk or New Customers
-Accoount 547,2,At-Risk or New Customers
-Accoount 548,3,High Potential Prospects
-Accoount 552,8,
-Accoount 553,7,
-Accoount 560,7,
-Accoount 564,7,
-Accoount 566,7,
+Accoount 541,3,High Potential Prospects
+Accoount 542,3,High Potential Prospects
+Accoount 543,3,High Potential Prospects
+Accoount 544,1,Occasional Bargain Seekers
+Accoount 545,3,High Potential Prospects
+Accoount 546,3,High Potential Prospects
+Accoount 547,3,High Potential Prospects
+Accoount 548,4,
+Accoount 549,6,
+Accoount 550,2,At-Risk or New Customers
+Accoount 552,2,At-Risk or New Customers
+Accoount 553,0,Loyal High Spenders
+Accoount 554,7,
+Accoount 555,6,
+Accoount 556,8,
+Accoount 557,4,
+Accoount 558,2,At-Risk or New Customers
+Accoount 559,8,
+Accoount 560,0,Loyal High Spenders
+Accoount 561,2,At-Risk or New Customers
+Accoount 562,7,
+Accoount 563,2,At-Risk or New Customers
+Accoount 564,0,Loyal High Spenders
+Accoount 566,0,Loyal High Spenders
+Accoount 567,7,
 Accoount 568,1,Occasional Bargain Seekers
-Accoount 569,4,
-Accoount 573,6,
-Accoount 575,3,High Potential Prospects
-Accoount 576,7,
-Accoount 577,7,
-Accoount 581,4,
-Accoount 582,2,At-Risk or New Customers
-Accoount 583,2,At-Risk or New Customers
-Accoount 584,2,At-Risk or New Customers
-Accoount 585,2,At-Risk or New Customers
-Accoount 586,4,
-Accoount 587,5,
-Accoount 588,4,
-Accoount 589,7,
-Accoount 593,7,
-Accoount 594,2,At-Risk or New Customers
-Accoount 595,2,At-Risk or New Customers
+Accoount 569,9,
+Accoount 570,4,
+Accoount 571,7,
+Accoount 572,8,
+Accoount 573,8,
+Accoount 574,5,
+Accoount 575,4,
+Accoount 576,0,Loyal High Spenders
+Accoount 577,0,Loyal High Spenders
+Accoount 578,6,
+Accoount 579,7,
+Accoount 580,8,
+Accoount 581,9,
+Accoount 582,3,High Potential Prospects
+Accoount 583,3,High Potential Prospects
+Accoount 584,3,High Potential Prospects
+Accoount 585,3,High Potential Prospects
+Accoount 586,5,
+Accoount 587,8,
+Accoount 588,9,
+Accoount 589,0,Loyal High Spenders
+Accoount 590,8,
+Accoount 591,8,
+Accoount 592,5,
+Accoount 593,0,Loyal High Spenders
+Accoount 594,3,High Potential Prospects
+Accoount 595,1,Occasional Bargain Seekers
 Accoount 596,1,Occasional Bargain Seekers
 Accoount 597,1,Occasional Bargain Seekers
 Accoount 598,1,Occasional Bargain Seekers
@@ -491,288 +594,343 @@ Accoount 603,1,Occasional Bargain Seekers
 Accoount 604,1,Occasional Bargain Seekers
 Accoount 605,1,Occasional Bargain Seekers
 Accoount 606,1,Occasional Bargain Seekers
-Accoount 607,9,
-Accoount 609,8,
+Accoount 607,3,High Potential Prospects
+Accoount 608,6,
+Accoount 609,2,At-Risk or New Customers
 Accoount 610,1,Occasional Bargain Seekers
 Accoount 611,1,Occasional Bargain Seekers
-Accoount 612,2,At-Risk or New Customers
-Accoount 613,2,At-Risk or New Customers
-Accoount 614,7,
-Accoount 615,2,At-Risk or New Customers
+Accoount 612,3,High Potential Prospects
+Accoount 613,3,High Potential Prospects
+Accoount 614,0,Loyal High Spenders
+Accoount 615,3,High Potential Prospects
 Accoount 616,1,Occasional Bargain Seekers
+Accoount 617,3,High Potential Prospects
 Accoount 618,1,Occasional Bargain Seekers
 Accoount 619,1,Occasional Bargain Seekers
 Accoount 620,1,Occasional Bargain Seekers
-Accoount 622,2,At-Risk or New Customers
-Accoount 623,9,
+Accoount 622,1,Occasional Bargain Seekers
+Accoount 623,1,Occasional Bargain Seekers
 Accoount 624,1,Occasional Bargain Seekers
 Accoount 625,1,Occasional Bargain Seekers
-Accoount 626,2,At-Risk or New Customers
+Accoount 626,3,High Potential Prospects
 Accoount 628,1,Occasional Bargain Seekers
-Accoount 629,4,
-Accoount 630,4,
-Accoount 632,4,
-Accoount 633,4,
-Accoount 634,2,At-Risk or New Customers
+Accoount 629,9,
+Accoount 630,9,
+Accoount 631,0,Loyal High Spenders
+Accoount 632,9,
+Accoount 633,9,
+Accoount 634,3,High Potential Prospects
 Accoount 635,1,Occasional Bargain Seekers
-Accoount 636,4,
-Accoount 637,9,
-Accoount 638,9,
-Accoount 639,2,At-Risk or New Customers
-Accoount 640,2,At-Risk or New Customers
-Accoount 641,4,
-Accoount 642,9,
-Accoount 643,2,At-Risk or New Customers
-Accoount 644,2,At-Risk or New Customers
-Accoount 645,2,At-Risk or New Customers
-Accoount 646,2,At-Risk or New Customers
-Accoount 647,2,At-Risk or New Customers
-Accoount 648,2,At-Risk or New Customers
+Accoount 636,9,
+Accoount 637,3,High Potential Prospects
+Accoount 638,3,High Potential Prospects
+Accoount 639,3,High Potential Prospects
+Accoount 640,3,High Potential Prospects
+Accoount 641,9,
+Accoount 642,1,Occasional Bargain Seekers
+Accoount 643,3,High Potential Prospects
+Accoount 644,3,High Potential Prospects
+Accoount 645,3,High Potential Prospects
+Accoount 646,3,High Potential Prospects
+Accoount 647,3,High Potential Prospects
+Accoount 648,3,High Potential Prospects
 Accoount 649,1,Occasional Bargain Seekers
-Accoount 650,0,Loyal High Spenders
-Accoount 651,2,At-Risk or New Customers
-Accoount 652,2,At-Risk or New Customers
-Accoount 654,7,
-Accoount 655,3,High Potential Prospects
-Accoount 657,8,
-Accoount 661,8,
-Accoount 668,8,
-Accoount 670,4,
-Accoount 671,2,At-Risk or New Customers
-Accoount 672,4,
-Accoount 674,2,At-Risk or New Customers
-Accoount 676,2,At-Risk or New Customers
-Accoount 677,4,
-Accoount 678,6,
-Accoount 679,7,
-Accoount 682,3,High Potential Prospects
+Accoount 650,1,Occasional Bargain Seekers
+Accoount 651,3,High Potential Prospects
+Accoount 652,3,High Potential Prospects
+Accoount 654,0,Loyal High Spenders
+Accoount 655,4,
+Accoount 656,2,At-Risk or New Customers
+Accoount 657,2,At-Risk or New Customers
+Accoount 658,8,
+Accoount 659,6,
+Accoount 660,4,
+Accoount 661,2,At-Risk or New Customers
+Accoount 662,8,
+Accoount 663,6,
+Accoount 664,6,
+Accoount 665,6,
+Accoount 666,2,At-Risk or New Customers
+Accoount 667,4,
+Accoount 668,2,At-Risk or New Customers
+Accoount 670,9,
+Accoount 671,3,High Potential Prospects
+Accoount 672,9,
+Accoount 673,4,
+Accoount 674,3,High Potential Prospects
+Accoount 675,7,
+Accoount 676,3,High Potential Prospects
+Accoount 677,5,
+Accoount 678,4,
+Accoount 679,0,Loyal High Spenders
+Accoount 680,8,
+Accoount 681,2,At-Risk or New Customers
+Accoount 682,8,
 Accoount 683,1,Occasional Bargain Seekers
 Accoount 684,1,Occasional Bargain Seekers
 Accoount 685,1,Occasional Bargain Seekers
-Accoount 686,0,Loyal High Spenders
+Accoount 686,1,Occasional Bargain Seekers
 Accoount 687,1,Occasional Bargain Seekers
 Accoount 688,1,Occasional Bargain Seekers
 Accoount 689,1,Occasional Bargain Seekers
 Accoount 690,1,Occasional Bargain Seekers
 Accoount 691,1,Occasional Bargain Seekers
-Accoount 692,2,At-Risk or New Customers
-Accoount 694,2,At-Risk or New Customers
+Accoount 692,3,High Potential Prospects
+Accoount 693,4,
+Accoount 694,3,High Potential Prospects
 Accoount 695,1,Occasional Bargain Seekers
-Accoount 696,7,
-Accoount 697,2,At-Risk or New Customers
+Accoount 696,0,Loyal High Spenders
+Accoount 697,3,High Potential Prospects
 Accoount 698,1,Occasional Bargain Seekers
-Accoount 699,4,
-Accoount 700,4,
-Accoount 701,2,At-Risk or New Customers
+Accoount 699,5,
+Accoount 700,9,
+Accoount 701,3,High Potential Prospects
 Accoount 702,5,
 Accoount 703,1,Occasional Bargain Seekers
-Accoount 704,2,At-Risk or New Customers
-Accoount 705,9,
-Accoount 706,9,
-Accoount 707,2,At-Risk or New Customers
+Accoount 704,3,High Potential Prospects
+Accoount 705,3,High Potential Prospects
+Accoount 706,3,High Potential Prospects
+Accoount 707,3,High Potential Prospects
 Accoount 708,5,
-Accoount 709,9,
-Accoount 710,4,
-Accoount 711,2,At-Risk or New Customers
-Accoount 712,4,
-Accoount 713,4,
-Accoount 714,9,
-Accoount 715,4,
-Accoount 716,2,At-Risk or New Customers
-Accoount 717,4,
-Accoount 718,9,
-Accoount 719,2,At-Risk or New Customers
-Accoount 720,2,At-Risk or New Customers
-Accoount 721,9,
-Accoount 722,0,Loyal High Spenders
-Accoount 723,2,At-Risk or New Customers
-Accoount 724,2,At-Risk or New Customers
-Accoount 725,5,
-Accoount 728,7,
-Accoount 729,5,
-Accoount 730,5,
-Accoount 733,7,
-Accoount 734,2,At-Risk or New Customers
-Accoount 736,6,
-Accoount 737,3,High Potential Prospects
-Accoount 738,3,High Potential Prospects
-Accoount 739,3,High Potential Prospects
-Accoount 740,8,
-Accoount 743,9,
-Accoount 744,2,At-Risk or New Customers
-Accoount 745,8,
-Accoount 746,9,
-Accoount 747,9,
-Accoount 749,2,At-Risk or New Customers
-Accoount 750,2,At-Risk or New Customers
-Accoount 751,4,
-Accoount 752,2,At-Risk or New Customers
-Accoount 753,2,At-Risk or New Customers
-Accoount 754,2,At-Risk or New Customers
-Accoount 756,6,
-Accoount 758,4,
-Accoount 759,2,At-Risk or New Customers
-Accoount 760,4,
-Accoount 761,6,
-Accoount 762,6,
-Accoount 763,2,At-Risk or New Customers
-Accoount 764,6,
-Accoount 765,3,High Potential Prospects
-Accoount 766,4,
-Accoount 767,3,High Potential Prospects
-Accoount 768,9,
+Accoount 709,3,High Potential Prospects
+Accoount 710,9,
+Accoount 711,3,High Potential Prospects
+Accoount 712,9,
+Accoount 713,5,
+Accoount 714,3,High Potential Prospects
+Accoount 715,5,
+Accoount 716,3,High Potential Prospects
+Accoount 717,5,
+Accoount 718,1,Occasional Bargain Seekers
+Accoount 719,3,High Potential Prospects
+Accoount 720,3,High Potential Prospects
+Accoount 721,1,Occasional Bargain Seekers
+Accoount 722,3,High Potential Prospects
+Accoount 723,3,High Potential Prospects
+Accoount 724,3,High Potential Prospects
+Accoount 725,6,
+Accoount 727,6,
+Accoount 728,0,Loyal High Spenders
+Accoount 729,6,
+Accoount 730,7,
+Accoount 731,2,At-Risk or New Customers
+Accoount 732,8,
+Accoount 733,0,Loyal High Spenders
+Accoount 734,3,High Potential Prospects
+Accoount 735,7,
+Accoount 736,4,
+Accoount 737,8,
+Accoount 738,8,
+Accoount 739,4,
+Accoount 740,2,At-Risk or New Customers
+Accoount 741,7,
+Accoount 742,6,
+Accoount 743,1,Occasional Bargain Seekers
+Accoount 744,3,High Potential Prospects
+Accoount 745,2,At-Risk or New Customers
+Accoount 746,3,High Potential Prospects
+Accoount 747,3,High Potential Prospects
+Accoount 748,4,
+Accoount 749,3,High Potential Prospects
+Accoount 750,3,High Potential Prospects
+Accoount 751,9,
+Accoount 752,3,High Potential Prospects
+Accoount 753,3,High Potential Prospects
+Accoount 754,3,High Potential Prospects
+Accoount 755,5,
+Accoount 756,8,
+Accoount 757,7,
+Accoount 758,5,
+Accoount 759,3,High Potential Prospects
+Accoount 760,5,
+Accoount 761,4,
+Accoount 762,4,
+Accoount 763,3,High Potential Prospects
+Accoount 764,4,
+Accoount 765,8,
+Accoount 766,9,
+Accoount 767,8,
+Accoount 768,1,Occasional Bargain Seekers
 Accoount 769,1,Occasional Bargain Seekers
 Accoount 770,1,Occasional Bargain Seekers
 Accoount 771,1,Occasional Bargain Seekers
 Accoount 772,1,Occasional Bargain Seekers
-Accoount 773,2,At-Risk or New Customers
+Accoount 773,3,High Potential Prospects
 Accoount 774,1,Occasional Bargain Seekers
 Accoount 775,1,Occasional Bargain Seekers
 Accoount 776,1,Occasional Bargain Seekers
 Accoount 777,1,Occasional Bargain Seekers
 Accoount 778,1,Occasional Bargain Seekers
 Accoount 779,5,
-Accoount 780,7,
-Accoount 781,2,At-Risk or New Customers
-Accoount 782,2,At-Risk or New Customers
+Accoount 780,0,Loyal High Spenders
+Accoount 781,3,High Potential Prospects
+Accoount 782,3,High Potential Prospects
 Accoount 783,1,Occasional Bargain Seekers
 Accoount 784,1,Occasional Bargain Seekers
 Accoount 785,1,Occasional Bargain Seekers
-Accoount 786,7,
+Accoount 786,0,Loyal High Spenders
+Accoount 787,4,
 Accoount 788,1,Occasional Bargain Seekers
 Accoount 789,1,Occasional Bargain Seekers
 Accoount 790,1,Occasional Bargain Seekers
 Accoount 791,5,
-Accoount 792,2,At-Risk or New Customers
-Accoount 793,4,
-Accoount 794,4,
+Accoount 792,3,High Potential Prospects
+Accoount 793,9,
+Accoount 794,9,
 Accoount 795,1,Occasional Bargain Seekers
-Accoount 796,0,Loyal High Spenders
-Accoount 797,9,
-Accoount 798,4,
+Accoount 796,1,Occasional Bargain Seekers
+Accoount 797,1,Occasional Bargain Seekers
+Accoount 798,9,
 Accoount 799,1,Occasional Bargain Seekers
-Accoount 800,4,
-Accoount 801,4,
-Accoount 802,2,At-Risk or New Customers
-Accoount 803,9,
+Accoount 800,9,
+Accoount 801,9,
+Accoount 802,3,High Potential Prospects
+Accoount 803,3,High Potential Prospects
 Accoount 804,1,Occasional Bargain Seekers
-Accoount 805,0,Loyal High Spenders
-Accoount 806,2,At-Risk or New Customers
-Accoount 807,2,At-Risk or New Customers
+Accoount 805,1,Occasional Bargain Seekers
+Accoount 806,3,High Potential Prospects
+Accoount 807,3,High Potential Prospects
 Accoount 808,1,Occasional Bargain Seekers
-Accoount 809,9,
-Accoount 810,2,At-Risk or New Customers
-Accoount 811,2,At-Risk or New Customers
-Accoount 812,9,
-Accoount 813,2,At-Risk or New Customers
-Accoount 814,2,At-Risk or New Customers
-Accoount 815,2,At-Risk or New Customers
+Accoount 809,1,Occasional Bargain Seekers
+Accoount 810,3,High Potential Prospects
+Accoount 811,3,High Potential Prospects
+Accoount 812,1,Occasional Bargain Seekers
+Accoount 813,3,High Potential Prospects
+Accoount 814,3,High Potential Prospects
+Accoount 815,3,High Potential Prospects
 Accoount 816,1,Occasional Bargain Seekers
-Accoount 817,2,At-Risk or New Customers
-Accoount 819,5,
-Accoount 822,4,
-Accoount 824,5,
-Accoount 825,7,
-Accoount 829,8,
-Accoount 831,5,
-Accoount 833,8,
-Accoount 834,3,High Potential Prospects
-Accoount 835,2,At-Risk or New Customers
-Accoount 837,8,
-Accoount 838,9,
-Accoount 839,9,
-Accoount 843,5,
-Accoount 844,5,
-Accoount 845,8,
-Accoount 846,6,
-Accoount 847,2,At-Risk or New Customers
-Accoount 848,2,At-Risk or New Customers
-Accoount 849,2,At-Risk or New Customers
-Accoount 850,5,
-Accoount 851,7,
-Accoount 852,3,High Potential Prospects
-Accoount 853,8,
+Accoount 817,3,High Potential Prospects
+Accoount 818,2,At-Risk or New Customers
+Accoount 819,7,
+Accoount 820,6,
+Accoount 821,8,
+Accoount 822,5,
+Accoount 823,7,
+Accoount 824,6,
+Accoount 825,0,Loyal High Spenders
+Accoount 826,6,
+Accoount 827,2,At-Risk or New Customers
+Accoount 829,2,At-Risk or New Customers
+Accoount 830,8,
+Accoount 831,7,
+Accoount 832,2,At-Risk or New Customers
+Accoount 833,2,At-Risk or New Customers
+Accoount 834,8,
+Accoount 835,3,High Potential Prospects
+Accoount 836,7,
+Accoount 837,2,At-Risk or New Customers
+Accoount 838,3,High Potential Prospects
+Accoount 839,3,High Potential Prospects
+Accoount 843,7,
+Accoount 844,7,
+Accoount 845,2,At-Risk or New Customers
+Accoount 846,7,
+Accoount 847,3,High Potential Prospects
+Accoount 848,3,High Potential Prospects
+Accoount 849,3,High Potential Prospects
+Accoount 850,7,
+Accoount 851,0,Loyal High Spenders
+Accoount 852,4,
+Accoount 853,2,At-Risk or New Customers
+Accoount 854,7,
+Accoount 855,8,
+Accoount 856,6,
+Accoount 857,8,
 Accoount 858,1,Occasional Bargain Seekers
 Accoount 859,1,Occasional Bargain Seekers
-Accoount 860,2,At-Risk or New Customers
+Accoount 860,3,High Potential Prospects
 Accoount 861,1,Occasional Bargain Seekers
 Accoount 862,1,Occasional Bargain Seekers
-Accoount 863,2,At-Risk or New Customers
+Accoount 863,3,High Potential Prospects
 Accoount 864,1,Occasional Bargain Seekers
 Accoount 865,1,Occasional Bargain Seekers
-Accoount 866,9,
+Accoount 866,1,Occasional Bargain Seekers
 Accoount 867,1,Occasional Bargain Seekers
 Accoount 868,1,Occasional Bargain Seekers
 Accoount 869,1,Occasional Bargain Seekers
-Accoount 870,2,At-Risk or New Customers
+Accoount 870,3,High Potential Prospects
 Accoount 871,1,Occasional Bargain Seekers
-Accoount 872,3,High Potential Prospects
-Accoount 873,4,
-Accoount 874,2,At-Risk or New Customers
-Accoount 875,2,At-Risk or New Customers
+Accoount 872,4,
+Accoount 873,5,
+Accoount 874,3,High Potential Prospects
+Accoount 875,3,High Potential Prospects
+Accoount 876,4,
+Accoount 877,7,
+Accoount 878,5,
 Accoount 879,1,Occasional Bargain Seekers
 Accoount 880,1,Occasional Bargain Seekers
 Accoount 881,5,
-Accoount 882,2,At-Risk or New Customers
-Accoount 883,4,
-Accoount 884,2,At-Risk or New Customers
-Accoount 885,3,High Potential Prospects
-Accoount 886,2,At-Risk or New Customers
-Accoount 887,2,At-Risk or New Customers
-Accoount 888,4,
+Accoount 882,3,High Potential Prospects
+Accoount 883,9,
+Accoount 884,3,High Potential Prospects
+Accoount 885,8,
+Accoount 886,3,High Potential Prospects
+Accoount 887,3,High Potential Prospects
+Accoount 888,9,
 Accoount 889,1,Occasional Bargain Seekers
-Accoount 890,2,At-Risk or New Customers
-Accoount 891,9,
-Accoount 892,4,
-Accoount 893,4,
-Accoount 894,4,
+Accoount 890,3,High Potential Prospects
+Accoount 891,1,Occasional Bargain Seekers
+Accoount 892,9,
+Accoount 893,9,
+Accoount 894,5,
 Accoount 895,1,Occasional Bargain Seekers
 Accoount 896,1,Occasional Bargain Seekers
-Accoount 897,2,At-Risk or New Customers
-Accoount 898,4,
-Accoount 899,2,At-Risk or New Customers
-Accoount 900,2,At-Risk or New Customers
-Accoount 901,2,At-Risk or New Customers
-Accoount 902,2,At-Risk or New Customers
-Accoount 903,2,At-Risk or New Customers
-Accoount 904,2,At-Risk or New Customers
+Accoount 897,3,High Potential Prospects
+Accoount 898,9,
+Accoount 899,1,Occasional Bargain Seekers
+Accoount 900,3,High Potential Prospects
+Accoount 901,3,High Potential Prospects
+Accoount 902,3,High Potential Prospects
+Accoount 903,3,High Potential Prospects
+Accoount 904,3,High Potential Prospects
 Accoount 905,1,Occasional Bargain Seekers
-Accoount 906,9,
-Accoount 908,2,At-Risk or New Customers
-Accoount 909,3,High Potential Prospects
-Accoount 912,3,High Potential Prospects
-Accoount 914,7,
-Accoount 919,3,High Potential Prospects
-Accoount 920,6,
-Accoount 921,8,
-Accoount 922,6,
-Accoount 923,5,
-Accoount 924,7,
-Accoount 927,6,
-Accoount 928,7,
-Accoount 929,6,
-Accoount 930,2,At-Risk or New Customers
-Accoount 931,5,
-Accoount 933,9,
-Accoount 934,7,
-Accoount 935,4,
-Accoount 937,2,At-Risk or New Customers
-Accoount 938,2,At-Risk or New Customers
-Accoount 939,2,At-Risk or New Customers
-Accoount 940,3,High Potential Prospects
-Accoount 941,2,At-Risk or New Customers
-Accoount 944,2,At-Risk or New Customers
-Accoount 945,2,At-Risk or New Customers
-Accoount 946,2,At-Risk or New Customers
-Accoount 947,7,
-Accoount 949,5,
-Accoount 950,3,High Potential Prospects
-Accoount 951,5,
-Accoount 952,6,
+Accoount 906,1,Occasional Bargain Seekers
+Accoount 907,2,At-Risk or New Customers
+Accoount 908,3,High Potential Prospects
+Accoount 909,4,
+Accoount 910,2,At-Risk or New Customers
+Accoount 912,8,
+Accoount 913,6,
+Accoount 914,0,Loyal High Spenders
+Accoount 915,6,
+Accoount 917,8,
+Accoount 919,4,
+Accoount 920,4,
+Accoount 921,2,At-Risk or New Customers
+Accoount 922,8,
+Accoount 923,6,
+Accoount 924,0,Loyal High Spenders
+Accoount 925,7,
+Accoount 926,6,
+Accoount 927,4,
+Accoount 928,0,Loyal High Spenders
+Accoount 929,4,
+Accoount 930,3,High Potential Prospects
+Accoount 931,6,
+Accoount 933,3,High Potential Prospects
+Accoount 934,0,Loyal High Spenders
+Accoount 935,9,
+Accoount 936,5,
+Accoount 937,3,High Potential Prospects
+Accoount 938,3,High Potential Prospects
+Accoount 939,3,High Potential Prospects
+Accoount 940,4,
+Accoount 941,3,High Potential Prospects
+Accoount 942,6,
+Accoount 943,6,
+Accoount 944,3,High Potential Prospects
+Accoount 945,3,High Potential Prospects
+Accoount 946,3,High Potential Prospects
+Accoount 947,0,Loyal High Spenders
+Accoount 948,4,
+Accoount 949,6,
+Accoount 950,4,
+Accoount 951,7,
+Accoount 952,8,
 Accoount 953,5,
-Accoount 954,4,
-Accoount 955,2,At-Risk or New Customers
-Accoount 956,4,
+Accoount 954,5,
+Accoount 955,3,High Potential Prospects
+Accoount 956,5,
 Accoount 957,1,Occasional Bargain Seekers
 Accoount 958,1,Occasional Bargain Seekers
 Accoount 959,1,Occasional Bargain Seekers
@@ -780,315 +938,389 @@ Accoount 960,1,Occasional Bargain Seekers
 Accoount 961,1,Occasional Bargain Seekers
 Accoount 962,1,Occasional Bargain Seekers
 Accoount 963,1,Occasional Bargain Seekers
-Accoount 964,9,
-Accoount 965,9,
-Accoount 966,5,
+Accoount 964,3,High Potential Prospects
+Accoount 965,3,High Potential Prospects
+Accoount 966,1,Occasional Bargain Seekers
 Accoount 967,1,Occasional Bargain Seekers
 Accoount 968,1,Occasional Bargain Seekers
-Accoount 969,4,
-Accoount 970,9,
-Accoount 971,9,
+Accoount 969,9,
+Accoount 970,3,High Potential Prospects
+Accoount 971,3,High Potential Prospects
 Accoount 972,1,Occasional Bargain Seekers
-Accoount 973,4,
+Accoount 973,9,
 Accoount 974,1,Occasional Bargain Seekers
-Accoount 976,2,At-Risk or New Customers
-Accoount 977,2,At-Risk or New Customers
-Accoount 978,2,At-Risk or New Customers
-Accoount 979,2,At-Risk or New Customers
-Accoount 980,5,
-Accoount 981,2,At-Risk or New Customers
-Accoount 982,4,
-Accoount 983,4,
-Accoount 984,4,
-Accoount 985,4,
-Accoount 986,4,
-Accoount 987,2,At-Risk or New Customers
-Accoount 988,2,At-Risk or New Customers
-Accoount 989,4,
-Accoount 990,2,At-Risk or New Customers
-Accoount 991,2,At-Risk or New Customers
-Accoount 992,4,
-Accoount 993,2,At-Risk or New Customers
-Accoount 994,2,At-Risk or New Customers
-Accoount 995,9,
-Accoount 996,2,At-Risk or New Customers
-Accoount 997,2,At-Risk or New Customers
-Accoount 998,2,At-Risk or New Customers
-Accoount 999,2,At-Risk or New Customers
-Accoount 1000,0,Loyal High Spenders
-Accoount 1001,9,
-Accoount 1002,3,High Potential Prospects
-Accoount 1005,4,
-Accoount 1006,8,
-Accoount 1008,8,
-Accoount 1010,3,High Potential Prospects
-Accoount 1011,8,
-Accoount 1012,7,
-Accoount 1013,6,
-Accoount 1016,8,
-Accoount 1017,8,
-Accoount 1018,5,
-Accoount 1019,8,
-Accoount 1020,6,
-Accoount 1021,5,
-Accoount 1022,6,
-Accoount 1023,9,
+Accoount 975,1,Occasional Bargain Seekers
+Accoount 976,3,High Potential Prospects
+Accoount 977,3,High Potential Prospects
+Accoount 978,3,High Potential Prospects
+Accoount 979,3,High Potential Prospects
+Accoount 980,6,
+Accoount 981,3,High Potential Prospects
+Accoount 982,9,
+Accoount 983,9,
+Accoount 984,9,
+Accoount 985,9,
+Accoount 986,5,
+Accoount 987,3,High Potential Prospects
+Accoount 988,3,High Potential Prospects
+Accoount 989,9,
+Accoount 990,3,High Potential Prospects
+Accoount 991,3,High Potential Prospects
+Accoount 992,9,
+Accoount 993,3,High Potential Prospects
+Accoount 994,3,High Potential Prospects
+Accoount 995,3,High Potential Prospects
+Accoount 996,3,High Potential Prospects
+Accoount 997,3,High Potential Prospects
+Accoount 998,3,High Potential Prospects
+Accoount 999,3,High Potential Prospects
+Accoount 1000,1,Occasional Bargain Seekers
+Accoount 1001,1,Occasional Bargain Seekers
+Accoount 1002,4,
+Accoount 1003,6,
+Accoount 1004,6,
+Accoount 1005,9,
+Accoount 1006,2,At-Risk or New Customers
+Accoount 1007,6,
+Accoount 1008,2,At-Risk or New Customers
+Accoount 1009,7,
+Accoount 1010,4,
+Accoount 1011,2,At-Risk or New Customers
+Accoount 1012,0,Loyal High Spenders
+Accoount 1013,4,
+Accoount 1014,6,
+Accoount 1015,6,
+Accoount 1016,2,At-Risk or New Customers
+Accoount 1017,2,At-Risk or New Customers
+Accoount 1018,6,
+Accoount 1019,2,At-Risk or New Customers
+Accoount 1020,4,
+Accoount 1021,6,
+Accoount 1022,8,
+Accoount 1023,3,High Potential Prospects
+Accoount 1024,8,
+Accoount 1025,7,
+Accoount 1026,4,
+Accoount 1027,2,At-Risk or New Customers
+Accoount 1028,7,
+Accoount 1029,6,
 Accoount 1030,1,Occasional Bargain Seekers
-Accoount 1032,9,
-Accoount 1034,7,
-Accoount 1035,6,
-Accoount 1036,7,
-Accoount 1037,4,
-Accoount 1038,8,
-Accoount 1039,2,At-Risk or New Customers
-Accoount 1040,2,At-Risk or New Customers
-Accoount 1042,2,At-Risk or New Customers
-Accoount 1043,2,At-Risk or New Customers
-Accoount 1044,3,High Potential Prospects
-Accoount 1045,4,
-Accoount 1046,2,At-Risk or New Customers
-Accoount 1048,6,
-Accoount 1049,3,High Potential Prospects
-Accoount 1051,8,
-Accoount 1052,2,At-Risk or New Customers
-Accoount 1053,9,
+Accoount 1031,7,
+Accoount 1032,3,High Potential Prospects
+Accoount 1033,0,Loyal High Spenders
+Accoount 1034,0,Loyal High Spenders
+Accoount 1035,4,
+Accoount 1036,0,Loyal High Spenders
+Accoount 1037,9,
+Accoount 1038,2,At-Risk or New Customers
+Accoount 1039,3,High Potential Prospects
+Accoount 1040,3,High Potential Prospects
+Accoount 1041,6,
+Accoount 1042,3,High Potential Prospects
+Accoount 1043,3,High Potential Prospects
+Accoount 1044,8,
+Accoount 1045,9,
+Accoount 1046,3,High Potential Prospects
+Accoount 1047,6,
+Accoount 1048,4,
+Accoount 1049,8,
+Accoount 1050,6,
+Accoount 1051,2,At-Risk or New Customers
+Accoount 1052,3,High Potential Prospects
+Accoount 1053,1,Occasional Bargain Seekers
 Accoount 1054,1,Occasional Bargain Seekers
 Accoount 1055,1,Occasional Bargain Seekers
 Accoount 1056,1,Occasional Bargain Seekers
 Accoount 1057,1,Occasional Bargain Seekers
-Accoount 1058,9,
+Accoount 1058,3,High Potential Prospects
 Accoount 1059,1,Occasional Bargain Seekers
 Accoount 1060,1,Occasional Bargain Seekers
 Accoount 1061,1,Occasional Bargain Seekers
 Accoount 1062,1,Occasional Bargain Seekers
 Accoount 1063,1,Occasional Bargain Seekers
-Accoount 1064,2,At-Risk or New Customers
-Accoount 1066,4,
-Accoount 1067,3,High Potential Prospects
-Accoount 1069,2,At-Risk or New Customers
-Accoount 1070,9,
+Accoount 1064,3,High Potential Prospects
+Accoount 1065,6,
+Accoount 1066,9,
+Accoount 1067,8,
+Accoount 1068,6,
+Accoount 1069,3,High Potential Prospects
+Accoount 1070,3,High Potential Prospects
 Accoount 1071,1,Occasional Bargain Seekers
 Accoount 1072,1,Occasional Bargain Seekers
-Accoount 1074,9,
-Accoount 1076,9,
+Accoount 1074,1,Occasional Bargain Seekers
+Accoount 1075,3,High Potential Prospects
+Accoount 1076,3,High Potential Prospects
 Accoount 1077,1,Occasional Bargain Seekers
-Accoount 1078,3,High Potential Prospects
-Accoount 1079,4,
-Accoount 1080,2,At-Risk or New Customers
-Accoount 1081,4,
-Accoount 1082,4,
-Accoount 1083,4,
-Accoount 1084,2,At-Risk or New Customers
-Accoount 1085,4,
-Accoount 1086,4,
-Accoount 1087,9,
-Accoount 1088,2,At-Risk or New Customers
-Accoount 1089,2,At-Risk or New Customers
-Accoount 1090,2,At-Risk or New Customers
-Accoount 1091,2,At-Risk or New Customers
-Accoount 1092,2,At-Risk or New Customers
+Accoount 1078,8,
+Accoount 1079,9,
+Accoount 1080,3,High Potential Prospects
+Accoount 1081,9,
+Accoount 1082,9,
+Accoount 1083,9,
+Accoount 1084,3,High Potential Prospects
+Accoount 1085,9,
+Accoount 1086,9,
+Accoount 1087,3,High Potential Prospects
+Accoount 1088,3,High Potential Prospects
+Accoount 1089,3,High Potential Prospects
+Accoount 1090,3,High Potential Prospects
+Accoount 1091,3,High Potential Prospects
+Accoount 1092,3,High Potential Prospects
 Accoount 1093,1,Occasional Bargain Seekers
-Accoount 1094,2,At-Risk or New Customers
-Accoount 1095,2,At-Risk or New Customers
-Accoount 1096,2,At-Risk or New Customers
-Accoount 1097,2,At-Risk or New Customers
-Accoount 1098,2,At-Risk or New Customers
-Accoount 1102,5,
-Accoount 1103,3,High Potential Prospects
-Accoount 1105,5,
-Accoount 1106,6,
-Accoount 1109,3,High Potential Prospects
-Accoount 1112,5,
-Accoount 1114,8,
-Accoount 1117,6,
-Accoount 1119,7,
-Accoount 1124,2,At-Risk or New Customers
-Accoount 1125,6,
-Accoount 1126,3,High Potential Prospects
-Accoount 1127,2,At-Risk or New Customers
-Accoount 1129,7,
-Accoount 1130,2,At-Risk or New Customers
-Accoount 1131,4,
-Accoount 1132,4,
-Accoount 1133,2,At-Risk or New Customers
-Accoount 1134,2,At-Risk or New Customers
-Accoount 1135,9,
-Accoount 1137,9,
+Accoount 1094,3,High Potential Prospects
+Accoount 1095,3,High Potential Prospects
+Accoount 1096,3,High Potential Prospects
+Accoount 1097,3,High Potential Prospects
+Accoount 1098,3,High Potential Prospects
+Accoount 1100,2,At-Risk or New Customers
+Accoount 1101,8,
+Accoount 1102,6,
+Accoount 1103,8,
+Accoount 1105,7,
+Accoount 1106,8,
+Accoount 1108,6,
+Accoount 1109,8,
+Accoount 1110,8,
+Accoount 1112,7,
+Accoount 1113,2,At-Risk or New Customers
+Accoount 1114,2,At-Risk or New Customers
+Accoount 1116,6,
+Accoount 1117,8,
+Accoount 1118,4,
+Accoount 1119,0,Loyal High Spenders
+Accoount 1120,4,
+Accoount 1121,6,
+Accoount 1122,6,
+Accoount 1123,9,
+Accoount 1124,3,High Potential Prospects
+Accoount 1125,4,
+Accoount 1126,4,
+Accoount 1127,1,Occasional Bargain Seekers
+Accoount 1128,2,At-Risk or New Customers
+Accoount 1129,0,Loyal High Spenders
+Accoount 1130,3,High Potential Prospects
+Accoount 1131,9,
+Accoount 1132,9,
+Accoount 1133,3,High Potential Prospects
+Accoount 1134,3,High Potential Prospects
+Accoount 1135,1,Occasional Bargain Seekers
+Accoount 1136,7,
+Accoount 1137,3,High Potential Prospects
 Accoount 1138,5,
-Accoount 1141,4,
-Accoount 1142,8,
-Accoount 1143,7,
-Accoount 1144,2,At-Risk or New Customers
-Accoount 1147,6,
-Accoount 1148,8,
+Accoount 1139,6,
+Accoount 1140,0,Loyal High Spenders
+Accoount 1141,9,
+Accoount 1142,2,At-Risk or New Customers
+Accoount 1143,0,Loyal High Spenders
+Accoount 1144,3,High Potential Prospects
+Accoount 1145,6,
+Accoount 1146,6,
+Accoount 1147,8,
+Accoount 1148,2,At-Risk or New Customers
+Accoount 1149,7,
 Accoount 1150,1,Occasional Bargain Seekers
+Accoount 1151,5,
 Accoount 1152,1,Occasional Bargain Seekers
-Accoount 1153,2,At-Risk or New Customers
+Accoount 1153,3,High Potential Prospects
 Accoount 1154,1,Occasional Bargain Seekers
 Accoount 1155,1,Occasional Bargain Seekers
 Accoount 1156,1,Occasional Bargain Seekers
-Accoount 1157,2,At-Risk or New Customers
+Accoount 1157,3,High Potential Prospects
 Accoount 1158,1,Occasional Bargain Seekers
 Accoount 1159,1,Occasional Bargain Seekers
 Accoount 1160,1,Occasional Bargain Seekers
 Accoount 1161,1,Occasional Bargain Seekers
-Accoount 1162,2,At-Risk or New Customers
-Accoount 1163,9,
+Accoount 1162,1,Occasional Bargain Seekers
+Accoount 1163,3,High Potential Prospects
 Accoount 1164,1,Occasional Bargain Seekers
 Accoount 1166,1,Occasional Bargain Seekers
 Accoount 1167,1,Occasional Bargain Seekers
-Accoount 1168,2,At-Risk or New Customers
+Accoount 1168,3,High Potential Prospects
+Accoount 1169,2,At-Risk or New Customers
+Accoount 1170,7,
+Accoount 1171,6,
 Accoount 1172,1,Occasional Bargain Seekers
 Accoount 1173,1,Occasional Bargain Seekers
 Accoount 1174,1,Occasional Bargain Seekers
 Accoount 1175,1,Occasional Bargain Seekers
-Accoount 1176,9,
+Accoount 1176,1,Occasional Bargain Seekers
 Accoount 1177,5,
 Accoount 1178,1,Occasional Bargain Seekers
-Accoount 1179,2,At-Risk or New Customers
-Accoount 1180,2,At-Risk or New Customers
-Accoount 1181,2,At-Risk or New Customers
-Accoount 1182,4,
-Accoount 1183,2,At-Risk or New Customers
+Accoount 1179,3,High Potential Prospects
+Accoount 1180,3,High Potential Prospects
+Accoount 1181,3,High Potential Prospects
+Accoount 1182,9,
+Accoount 1183,3,High Potential Prospects
 Accoount 1184,1,Occasional Bargain Seekers
-Accoount 1185,9,
-Accoount 1186,0,Loyal High Spenders
-Accoount 1187,4,
+Accoount 1185,3,High Potential Prospects
+Accoount 1186,3,High Potential Prospects
+Accoount 1187,9,
 Accoount 1188,5,
-Accoount 1189,4,
-Accoount 1190,2,At-Risk or New Customers
-Accoount 1191,4,
+Accoount 1189,9,
+Accoount 1190,3,High Potential Prospects
+Accoount 1191,9,
 Accoount 1192,1,Occasional Bargain Seekers
-Accoount 1193,9,
-Accoount 1194,9,
-Accoount 1195,9,
-Accoount 1196,2,At-Risk or New Customers
-Accoount 1197,2,At-Risk or New Customers
-Accoount 1198,2,At-Risk or New Customers
-Accoount 1199,2,At-Risk or New Customers
-Accoount 1200,2,At-Risk or New Customers
-Accoount 1204,5,
-Accoount 1205,6,
-Accoount 1206,6,
-Accoount 1207,3,High Potential Prospects
-Accoount 1208,4,
-Accoount 1209,8,
-Accoount 1212,3,High Potential Prospects
-Accoount 1215,5,
-Accoount 1217,2,At-Risk or New Customers
-Accoount 1218,7,
-Accoount 1221,9,
-Accoount 1222,5,
-Accoount 1223,9,
-Accoount 1226,5,
-Accoount 1227,2,At-Risk or New Customers
-Accoount 1228,9,
-Accoount 1229,9,
-Accoount 1230,2,At-Risk or New Customers
-Accoount 1231,2,At-Risk or New Customers
-Accoount 1232,2,At-Risk or New Customers
-Accoount 1233,9,
-Accoount 1235,2,At-Risk or New Customers
-Accoount 1236,2,At-Risk or New Customers
-Accoount 1237,2,At-Risk or New Customers
-Accoount 1238,7,
-Accoount 1239,6,
-Accoount 1240,5,
-Accoount 1241,6,
-Accoount 1242,6,
-Accoount 1243,9,
-Accoount 1244,2,At-Risk or New Customers
-Accoount 1245,9,
-Accoount 1246,2,At-Risk or New Customers
+Accoount 1193,1,Occasional Bargain Seekers
+Accoount 1194,3,High Potential Prospects
+Accoount 1195,3,High Potential Prospects
+Accoount 1196,3,High Potential Prospects
+Accoount 1197,3,High Potential Prospects
+Accoount 1198,3,High Potential Prospects
+Accoount 1199,3,High Potential Prospects
+Accoount 1200,3,High Potential Prospects
+Accoount 1201,6,
+Accoount 1202,7,
+Accoount 1203,4,
+Accoount 1204,7,
+Accoount 1205,8,
+Accoount 1206,4,
+Accoount 1207,4,
+Accoount 1208,9,
+Accoount 1209,2,At-Risk or New Customers
+Accoount 1210,2,At-Risk or New Customers
+Accoount 1211,7,
+Accoount 1212,4,
+Accoount 1213,4,
+Accoount 1214,0,Loyal High Spenders
+Accoount 1215,6,
+Accoount 1216,6,
+Accoount 1217,3,High Potential Prospects
+Accoount 1218,0,Loyal High Spenders
+Accoount 1220,7,
+Accoount 1221,3,High Potential Prospects
+Accoount 1222,7,
+Accoount 1223,1,Occasional Bargain Seekers
+Accoount 1225,6,
+Accoount 1226,6,
+Accoount 1227,3,High Potential Prospects
+Accoount 1228,1,Occasional Bargain Seekers
+Accoount 1229,3,High Potential Prospects
+Accoount 1230,3,High Potential Prospects
+Accoount 1231,3,High Potential Prospects
+Accoount 1232,3,High Potential Prospects
+Accoount 1233,1,Occasional Bargain Seekers
+Accoount 1234,6,
+Accoount 1235,3,High Potential Prospects
+Accoount 1236,3,High Potential Prospects
+Accoount 1237,3,High Potential Prospects
+Accoount 1238,0,Loyal High Spenders
+Accoount 1239,4,
+Accoount 1240,6,
+Accoount 1241,4,
+Accoount 1242,4,
+Accoount 1243,3,High Potential Prospects
+Accoount 1244,3,High Potential Prospects
+Accoount 1245,3,High Potential Prospects
+Accoount 1246,3,High Potential Prospects
 Accoount 1247,1,Occasional Bargain Seekers
-Accoount 1248,9,
-Accoount 1249,6,
-Accoount 1250,2,At-Risk or New Customers
-Accoount 1251,2,At-Risk or New Customers
+Accoount 1248,3,High Potential Prospects
+Accoount 1249,8,
+Accoount 1250,3,High Potential Prospects
+Accoount 1251,3,High Potential Prospects
 Accoount 1252,5,
-Accoount 1253,2,At-Risk or New Customers
-Accoount 1254,9,
+Accoount 1253,3,High Potential Prospects
+Accoount 1254,3,High Potential Prospects
 Accoount 1255,1,Occasional Bargain Seekers
 Accoount 1256,1,Occasional Bargain Seekers
 Accoount 1257,1,Occasional Bargain Seekers
-Accoount 1258,0,Loyal High Spenders
+Accoount 1258,5,
 Accoount 1259,1,Occasional Bargain Seekers
-Accoount 1260,4,
-Accoount 1261,2,At-Risk or New Customers
+Accoount 1260,5,
+Accoount 1261,3,High Potential Prospects
 Accoount 1262,1,Occasional Bargain Seekers
 Accoount 1263,1,Occasional Bargain Seekers
 Accoount 1264,1,Occasional Bargain Seekers
 Accoount 1265,1,Occasional Bargain Seekers
 Accoount 1266,1,Occasional Bargain Seekers
 Accoount 1267,1,Occasional Bargain Seekers
-Accoount 1268,4,
-Accoount 1269,2,At-Risk or New Customers
-Accoount 1271,2,At-Risk or New Customers
-Accoount 1272,2,At-Risk or New Customers
+Accoount 1268,9,
+Accoount 1269,3,High Potential Prospects
+Accoount 1270,6,
+Accoount 1271,3,High Potential Prospects
+Accoount 1272,3,High Potential Prospects
+Accoount 1273,9,
 Accoount 1274,1,Occasional Bargain Seekers
 Accoount 1275,1,Occasional Bargain Seekers
-Accoount 1276,9,
-Accoount 1277,9,
+Accoount 1276,3,High Potential Prospects
+Accoount 1277,1,Occasional Bargain Seekers
 Accoount 1278,1,Occasional Bargain Seekers
-Accoount 1279,2,At-Risk or New Customers
-Accoount 1281,2,At-Risk or New Customers
-Accoount 1282,4,
-Accoount 1283,4,
-Accoount 1284,4,
-Accoount 1285,4,
-Accoount 1286,4,
-Accoount 1287,9,
-Accoount 1288,2,At-Risk or New Customers
-Accoount 1289,4,
-Accoount 1290,4,
-Accoount 1291,2,At-Risk or New Customers
-Accoount 1292,9,
-Accoount 1293,2,At-Risk or New Customers
-Accoount 1294,2,At-Risk or New Customers
-Accoount 1295,4,
-Accoount 1296,2,At-Risk or New Customers
-Accoount 1297,9,
-Accoount 1298,4,
-Accoount 1299,9,
-Accoount 1300,2,At-Risk or New Customers
-Accoount 1301,2,At-Risk or New Customers
-Accoount 1302,2,At-Risk or New Customers
-Accoount 1303,2,At-Risk or New Customers
-Accoount 1304,2,At-Risk or New Customers
+Accoount 1279,3,High Potential Prospects
+Accoount 1280,5,
+Accoount 1281,3,High Potential Prospects
+Accoount 1282,9,
+Accoount 1283,9,
+Accoount 1284,9,
+Accoount 1285,9,
+Accoount 1286,9,
+Accoount 1287,3,High Potential Prospects
+Accoount 1288,3,High Potential Prospects
+Accoount 1289,9,
+Accoount 1290,9,
+Accoount 1291,3,High Potential Prospects
+Accoount 1292,3,High Potential Prospects
+Accoount 1293,3,High Potential Prospects
+Accoount 1294,3,High Potential Prospects
+Accoount 1295,9,
+Accoount 1296,3,High Potential Prospects
+Accoount 1297,1,Occasional Bargain Seekers
+Accoount 1298,9,
+Accoount 1299,1,Occasional Bargain Seekers
+Accoount 1300,3,High Potential Prospects
+Accoount 1301,3,High Potential Prospects
+Accoount 1302,3,High Potential Prospects
+Accoount 1303,3,High Potential Prospects
+Accoount 1304,3,High Potential Prospects
 Accoount 1305,1,Occasional Bargain Seekers
-Accoount 1306,8,
-Accoount 1308,6,
-Accoount 1313,5,
-Accoount 1314,4,
-Accoount 1316,6,
-Accoount 1319,7,
-Accoount 1320,6,
-Accoount 1321,6,
-Accoount 1322,4,
-Accoount 1326,8,
-Accoount 1327,2,At-Risk or New Customers
-Accoount 1331,6,
-Accoount 1332,5,
-Accoount 1334,2,At-Risk or New Customers
-Accoount 1335,2,At-Risk or New Customers
-Accoount 1336,2,At-Risk or New Customers
-Accoount 1337,2,At-Risk or New Customers
-Accoount 1338,2,At-Risk or New Customers
-Accoount 1339,2,At-Risk or New Customers
-Accoount 1340,2,At-Risk or New Customers
-Accoount 1341,2,At-Risk or New Customers
-Accoount 1343,5,
-Accoount 1344,2,At-Risk or New Customers
-Accoount 1345,7,
-Accoount 1346,7,
-Accoount 1347,2,At-Risk or New Customers
-Accoount 1349,4,
-Accoount 1350,2,At-Risk or New Customers
-Accoount 1351,6,
-Accoount 1352,9,
-Accoount 1353,3,High Potential Prospects
-Accoount 1354,7,
-Accoount 1356,7,
+Accoount 1306,2,At-Risk or New Customers
+Accoount 1307,6,
+Accoount 1308,4,
+Accoount 1309,7,
+Accoount 1310,7,
+Accoount 1311,8,
+Accoount 1312,6,
+Accoount 1313,6,
+Accoount 1314,9,
+Accoount 1315,2,At-Risk or New Customers
+Accoount 1316,4,
+Accoount 1317,2,At-Risk or New Customers
+Accoount 1318,2,At-Risk or New Customers
+Accoount 1319,0,Loyal High Spenders
+Accoount 1320,8,
+Accoount 1321,8,
+Accoount 1322,5,
+Accoount 1323,2,At-Risk or New Customers
+Accoount 1324,5,
+Accoount 1325,5,
+Accoount 1326,2,At-Risk or New Customers
+Accoount 1327,3,High Potential Prospects
+Accoount 1329,8,
+Accoount 1330,6,
+Accoount 1331,4,
+Accoount 1332,7,
+Accoount 1334,3,High Potential Prospects
+Accoount 1335,3,High Potential Prospects
+Accoount 1336,3,High Potential Prospects
+Accoount 1337,3,High Potential Prospects
+Accoount 1338,3,High Potential Prospects
+Accoount 1339,3,High Potential Prospects
+Accoount 1340,3,High Potential Prospects
+Accoount 1341,3,High Potential Prospects
+Accoount 1342,4,
+Accoount 1343,7,
+Accoount 1344,3,High Potential Prospects
+Accoount 1345,0,Loyal High Spenders
+Accoount 1346,0,Loyal High Spenders
+Accoount 1347,3,High Potential Prospects
+Accoount 1348,5,
+Accoount 1349,5,
+Accoount 1350,3,High Potential Prospects
+Accoount 1351,4,
+Accoount 1352,1,Occasional Bargain Seekers
+Accoount 1353,8,
+Accoount 1354,0,Loyal High Spenders
+Accoount 1355,2,At-Risk or New Customers
+Accoount 1356,0,Loyal High Spenders
+Accoount 1357,5,
 Accoount 1358,1,Occasional Bargain Seekers
 Accoount 1359,1,Occasional Bargain Seekers
 Accoount 1360,1,Occasional Bargain Seekers
@@ -1100,1228 +1332,1414 @@ Accoount 1365,1,Occasional Bargain Seekers
 Accoount 1366,1,Occasional Bargain Seekers
 Accoount 1367,1,Occasional Bargain Seekers
 Accoount 1368,1,Occasional Bargain Seekers
+Accoount 1369,8,
 Accoount 1370,1,Occasional Bargain Seekers
-Accoount 1372,2,At-Risk or New Customers
-Accoount 1373,9,
-Accoount 1374,2,At-Risk or New Customers
+Accoount 1371,5,
+Accoount 1372,3,High Potential Prospects
+Accoount 1373,3,High Potential Prospects
+Accoount 1374,1,Occasional Bargain Seekers
 Accoount 1375,1,Occasional Bargain Seekers
 Accoount 1376,1,Occasional Bargain Seekers
-Accoount 1377,9,
-Accoount 1378,2,At-Risk or New Customers
+Accoount 1377,1,Occasional Bargain Seekers
+Accoount 1378,3,High Potential Prospects
 Accoount 1379,1,Occasional Bargain Seekers
-Accoount 1380,2,At-Risk or New Customers
-Accoount 1381,2,At-Risk or New Customers
-Accoount 1382,4,
-Accoount 1383,2,At-Risk or New Customers
+Accoount 1380,3,High Potential Prospects
+Accoount 1381,3,High Potential Prospects
+Accoount 1382,9,
+Accoount 1383,1,Occasional Bargain Seekers
 Accoount 1384,1,Occasional Bargain Seekers
 Accoount 1385,1,Occasional Bargain Seekers
-Accoount 1386,2,At-Risk or New Customers
-Accoount 1387,2,At-Risk or New Customers
-Accoount 1388,9,
+Accoount 1386,3,High Potential Prospects
+Accoount 1387,3,High Potential Prospects
+Accoount 1388,1,Occasional Bargain Seekers
 Accoount 1389,1,Occasional Bargain Seekers
-Accoount 1390,2,At-Risk or New Customers
-Accoount 1391,2,At-Risk or New Customers
-Accoount 1392,4,
-Accoount 1393,9,
-Accoount 1394,9,
-Accoount 1395,9,
-Accoount 1396,4,
-Accoount 1397,2,At-Risk or New Customers
-Accoount 1398,2,At-Risk or New Customers
-Accoount 1399,2,At-Risk or New Customers
-Accoount 1400,2,At-Risk or New Customers
-Accoount 1401,2,At-Risk or New Customers
-Accoount 1402,2,At-Risk or New Customers
-Accoount 1403,9,
-Accoount 1404,5,
-Accoount 1406,5,
-Accoount 1407,8,
-Accoount 1410,2,At-Risk or New Customers
-Accoount 1413,3,High Potential Prospects
-Accoount 1414,6,
-Accoount 1417,5,
-Accoount 1418,8,
-Accoount 1419,3,High Potential Prospects
-Accoount 1421,5,
-Accoount 1422,9,
-Accoount 1424,7,
-Accoount 1425,6,
-Accoount 1427,2,At-Risk or New Customers
-Accoount 1428,6,
-Accoount 1431,4,
-Accoount 1432,4,
-Accoount 1433,2,At-Risk or New Customers
-Accoount 1434,2,At-Risk or New Customers
-Accoount 1435,2,At-Risk or New Customers
-Accoount 1436,2,At-Risk or New Customers
-Accoount 1437,4,
-Accoount 1438,4,
-Accoount 1441,9,
-Accoount 1444,4,
-Accoount 1445,4,
-Accoount 1446,9,
-Accoount 1447,2,At-Risk or New Customers
-Accoount 1448,9,
-Accoount 1449,4,
+Accoount 1390,3,High Potential Prospects
+Accoount 1391,3,High Potential Prospects
+Accoount 1392,9,
+Accoount 1393,3,High Potential Prospects
+Accoount 1394,1,Occasional Bargain Seekers
+Accoount 1395,1,Occasional Bargain Seekers
+Accoount 1396,9,
+Accoount 1397,3,High Potential Prospects
+Accoount 1398,3,High Potential Prospects
+Accoount 1399,3,High Potential Prospects
+Accoount 1400,3,High Potential Prospects
+Accoount 1401,3,High Potential Prospects
+Accoount 1402,3,High Potential Prospects
+Accoount 1403,1,Occasional Bargain Seekers
+Accoount 1404,7,
+Accoount 1405,7,
+Accoount 1406,6,
+Accoount 1407,2,At-Risk or New Customers
+Accoount 1408,2,At-Risk or New Customers
+Accoount 1409,2,At-Risk or New Customers
+Accoount 1410,3,High Potential Prospects
+Accoount 1411,6,
+Accoount 1412,6,
+Accoount 1413,8,
+Accoount 1414,8,
+Accoount 1415,7,
+Accoount 1416,8,
+Accoount 1417,7,
+Accoount 1418,2,At-Risk or New Customers
+Accoount 1419,4,
+Accoount 1420,4,
+Accoount 1421,8,
+Accoount 1422,1,Occasional Bargain Seekers
+Accoount 1423,7,
+Accoount 1424,0,Loyal High Spenders
+Accoount 1425,4,
+Accoount 1426,6,
+Accoount 1427,3,High Potential Prospects
+Accoount 1428,4,
+Accoount 1429,7,
+Accoount 1430,7,
+Accoount 1431,9,
+Accoount 1432,9,
+Accoount 1433,3,High Potential Prospects
+Accoount 1434,3,High Potential Prospects
+Accoount 1435,3,High Potential Prospects
+Accoount 1436,3,High Potential Prospects
+Accoount 1437,5,
+Accoount 1438,5,
+Accoount 1439,6,
+Accoount 1440,0,Loyal High Spenders
+Accoount 1441,3,High Potential Prospects
+Accoount 1442,8,
+Accoount 1444,5,
+Accoount 1445,9,
+Accoount 1446,1,Occasional Bargain Seekers
+Accoount 1447,3,High Potential Prospects
+Accoount 1448,1,Occasional Bargain Seekers
+Accoount 1449,5,
 Accoount 1450,1,Occasional Bargain Seekers
 Accoount 1451,1,Occasional Bargain Seekers
-Accoount 1452,2,At-Risk or New Customers
+Accoount 1452,3,High Potential Prospects
 Accoount 1453,1,Occasional Bargain Seekers
 Accoount 1454,1,Occasional Bargain Seekers
-Accoount 1455,9,
+Accoount 1455,3,High Potential Prospects
 Accoount 1456,1,Occasional Bargain Seekers
 Accoount 1457,1,Occasional Bargain Seekers
 Accoount 1458,1,Occasional Bargain Seekers
 Accoount 1459,1,Occasional Bargain Seekers
-Accoount 1460,7,
+Accoount 1460,0,Loyal High Spenders
 Accoount 1461,1,Occasional Bargain Seekers
+Accoount 1462,9,
 Accoount 1463,1,Occasional Bargain Seekers
 Accoount 1464,1,Occasional Bargain Seekers
-Accoount 1465,4,
-Accoount 1466,7,
-Accoount 1468,4,
-Accoount 1469,2,At-Risk or New Customers
+Accoount 1465,9,
+Accoount 1466,0,Loyal High Spenders
+Accoount 1467,7,
+Accoount 1468,5,
+Accoount 1469,3,High Potential Prospects
+Accoount 1470,3,High Potential Prospects
 Accoount 1471,1,Occasional Bargain Seekers
 Accoount 1472,1,Occasional Bargain Seekers
 Accoount 1473,1,Occasional Bargain Seekers
 Accoount 1474,1,Occasional Bargain Seekers
-Accoount 1475,2,At-Risk or New Customers
-Accoount 1476,2,At-Risk or New Customers
+Accoount 1475,3,High Potential Prospects
+Accoount 1476,3,High Potential Prospects
 Accoount 1477,5,
-Accoount 1478,2,At-Risk or New Customers
-Accoount 1479,2,At-Risk or New Customers
-Accoount 1480,2,At-Risk or New Customers
-Accoount 1481,9,
-Accoount 1482,9,
+Accoount 1478,3,High Potential Prospects
+Accoount 1479,3,High Potential Prospects
+Accoount 1480,3,High Potential Prospects
+Accoount 1481,3,High Potential Prospects
+Accoount 1482,1,Occasional Bargain Seekers
 Accoount 1483,1,Occasional Bargain Seekers
-Accoount 1484,2,At-Risk or New Customers
-Accoount 1485,2,At-Risk or New Customers
-Accoount 1486,2,At-Risk or New Customers
-Accoount 1487,2,At-Risk or New Customers
-Accoount 1488,4,
-Accoount 1489,4,
-Accoount 1490,4,
-Accoount 1491,4,
-Accoount 1492,2,At-Risk or New Customers
-Accoount 1493,2,At-Risk or New Customers
-Accoount 1494,2,At-Risk or New Customers
-Accoount 1495,2,At-Risk or New Customers
-Accoount 1496,4,
+Accoount 1484,3,High Potential Prospects
+Accoount 1485,3,High Potential Prospects
+Accoount 1486,3,High Potential Prospects
+Accoount 1487,3,High Potential Prospects
+Accoount 1488,9,
+Accoount 1489,9,
+Accoount 1490,9,
+Accoount 1491,9,
+Accoount 1492,3,High Potential Prospects
+Accoount 1493,3,High Potential Prospects
+Accoount 1494,1,Occasional Bargain Seekers
+Accoount 1495,3,High Potential Prospects
+Accoount 1496,9,
 Accoount 1497,1,Occasional Bargain Seekers
-Accoount 1498,4,
+Accoount 1498,5,
+Accoount 1499,6,
+Accoount 1500,6,
 Accoount 1501,1,Occasional Bargain Seekers
 Accoount 1502,1,Occasional Bargain Seekers
-Accoount 1503,2,At-Risk or New Customers
+Accoount 1503,1,Occasional Bargain Seekers
 Accoount 1504,1,Occasional Bargain Seekers
 Accoount 1505,1,Occasional Bargain Seekers
 Accoount 1506,1,Occasional Bargain Seekers
-Accoount 1507,8,
-Accoount 1508,6,
-Accoount 1511,4,
+Accoount 1507,2,At-Risk or New Customers
+Accoount 1508,8,
+Accoount 1509,4,
+Accoount 1511,9,
 Accoount 1512,1,Occasional Bargain Seekers
 Accoount 1513,1,Occasional Bargain Seekers
 Accoount 1514,1,Occasional Bargain Seekers
+Accoount 1515,6,
 Accoount 1516,1,Occasional Bargain Seekers
-Accoount 1517,5,
-Accoount 1519,4,
-Accoount 1521,2,At-Risk or New Customers
-Accoount 1522,2,At-Risk or New Customers
-Accoount 1523,6,
-Accoount 1524,5,
-Accoount 1525,6,
-Accoount 1526,2,At-Risk or New Customers
-Accoount 1527,2,At-Risk or New Customers
+Accoount 1517,7,
+Accoount 1518,5,
+Accoount 1519,9,
+Accoount 1520,8,
+Accoount 1521,3,High Potential Prospects
+Accoount 1522,3,High Potential Prospects
+Accoount 1523,8,
+Accoount 1524,7,
+Accoount 1525,4,
+Accoount 1526,3,High Potential Prospects
+Accoount 1527,3,High Potential Prospects
+Accoount 1528,6,
 Accoount 1529,1,Occasional Bargain Seekers
 Accoount 1530,1,Occasional Bargain Seekers
 Accoount 1531,1,Occasional Bargain Seekers
 Accoount 1532,1,Occasional Bargain Seekers
 Accoount 1533,8,
-Accoount 1534,8,
-Accoount 1535,2,At-Risk or New Customers
-Accoount 1536,2,At-Risk or New Customers
+Accoount 1534,2,At-Risk or New Customers
+Accoount 1535,3,High Potential Prospects
+Accoount 1536,3,High Potential Prospects
 Accoount 1537,1,Occasional Bargain Seekers
-Accoount 1538,6,
-Accoount 1541,6,
-Accoount 1542,2,At-Risk or New Customers
-Accoount 1543,5,
-Accoount 1545,2,At-Risk or New Customers
-Accoount 1546,6,
-Accoount 1547,4,
+Accoount 1538,4,
+Accoount 1540,8,
+Accoount 1541,4,
+Accoount 1542,3,High Potential Prospects
+Accoount 1543,6,
+Accoount 1544,6,
+Accoount 1545,3,High Potential Prospects
+Accoount 1546,4,
+Accoount 1547,5,
 Accoount 1548,1,Occasional Bargain Seekers
-Accoount 1550,2,At-Risk or New Customers
-Accoount 1551,4,
-Accoount 1552,2,At-Risk or New Customers
+Accoount 1549,5,
+Accoount 1550,3,High Potential Prospects
+Accoount 1551,9,
+Accoount 1552,3,High Potential Prospects
 Accoount 1553,1,Occasional Bargain Seekers
-Accoount 1554,2,At-Risk or New Customers
+Accoount 1554,3,High Potential Prospects
 Accoount 1555,1,Occasional Bargain Seekers
-Accoount 1556,0,Loyal High Spenders
-Accoount 1560,6,
-Accoount 1563,4,
+Accoount 1556,3,High Potential Prospects
+Accoount 1557,8,
+Accoount 1558,4,
+Accoount 1559,8,
+Accoount 1560,4,
+Accoount 1561,6,
+Accoount 1562,8,
+Accoount 1563,5,
 Accoount 1564,1,Occasional Bargain Seekers
 Accoount 1565,1,Occasional Bargain Seekers
 Accoount 1566,1,Occasional Bargain Seekers
-Accoount 1567,8,
-Accoount 1568,2,At-Risk or New Customers
-Accoount 1569,4,
-Accoount 1570,7,
-Accoount 1571,3,High Potential Prospects
-Accoount 1572,8,
-Accoount 1573,4,
-Accoount 1574,2,At-Risk or New Customers
+Accoount 1567,2,At-Risk or New Customers
+Accoount 1568,3,High Potential Prospects
+Accoount 1569,9,
+Accoount 1570,0,Loyal High Spenders
+Accoount 1571,4,
+Accoount 1572,2,At-Risk or New Customers
+Accoount 1573,9,
+Accoount 1574,3,High Potential Prospects
 Accoount 1575,1,Occasional Bargain Seekers
-Accoount 1576,8,
+Accoount 1576,2,At-Risk or New Customers
 Accoount 1577,1,Occasional Bargain Seekers
-Accoount 1578,2,At-Risk or New Customers
-Accoount 1580,6,
-Accoount 1581,6,
-Accoount 1584,2,At-Risk or New Customers
+Accoount 1578,3,High Potential Prospects
+Accoount 1580,8,
+Accoount 1581,4,
+Accoount 1582,8,
+Accoount 1583,2,At-Risk or New Customers
+Accoount 1584,3,High Potential Prospects
 Accoount 1585,1,Occasional Bargain Seekers
-Accoount 1587,9,
-Accoount 1588,2,At-Risk or New Customers
-Accoount 1589,2,At-Risk or New Customers
-Accoount 1591,5,
-Accoount 1593,7,
+Accoount 1586,4,
+Accoount 1587,1,Occasional Bargain Seekers
+Accoount 1588,3,High Potential Prospects
+Accoount 1589,3,High Potential Prospects
+Accoount 1590,4,
+Accoount 1591,6,
+Accoount 1592,7,
+Accoount 1593,0,Loyal High Spenders
 Accoount 1594,1,Occasional Bargain Seekers
 Accoount 1595,1,Occasional Bargain Seekers
-Accoount 1596,4,
+Accoount 1596,5,
 Accoount 1597,1,Occasional Bargain Seekers
-Accoount 1598,4,
-Accoount 1599,2,At-Risk or New Customers
-Accoount 1600,9,
-Accoount 1601,2,At-Risk or New Customers
-Accoount 1602,4,
-Accoount 1603,4,
+Accoount 1598,9,
+Accoount 1599,3,High Potential Prospects
+Accoount 1600,3,High Potential Prospects
+Accoount 1601,3,High Potential Prospects
+Accoount 1602,9,
+Accoount 1603,5,
 Accoount 1604,5,
-Accoount 1605,2,At-Risk or New Customers
-Accoount 1609,3,High Potential Prospects
-Accoount 1610,5,
+Accoount 1605,3,High Potential Prospects
+Accoount 1606,2,At-Risk or New Customers
+Accoount 1608,6,
+Accoount 1609,4,
+Accoount 1610,6,
 Accoount 1611,1,Occasional Bargain Seekers
-Accoount 1612,2,At-Risk or New Customers
+Accoount 1612,3,High Potential Prospects
 Accoount 1613,1,Occasional Bargain Seekers
-Accoount 1614,8,
-Accoount 1615,2,At-Risk or New Customers
-Accoount 1616,4,
-Accoount 1617,4,
-Accoount 1618,4,
-Accoount 1623,8,
-Accoount 1624,2,At-Risk or New Customers
+Accoount 1614,2,At-Risk or New Customers
+Accoount 1615,3,High Potential Prospects
+Accoount 1616,9,
+Accoount 1617,9,
+Accoount 1618,9,
+Accoount 1619,7,
+Accoount 1620,4,
+Accoount 1621,2,At-Risk or New Customers
+Accoount 1623,2,At-Risk or New Customers
+Accoount 1624,3,High Potential Prospects
+Accoount 1626,8,
 Accoount 1627,1,Occasional Bargain Seekers
 Accoount 1628,1,Occasional Bargain Seekers
+Accoount 1629,6,
 Accoount 1630,5,
-Accoount 1631,4,
-Accoount 1632,4,
-Accoount 1633,4,
-Accoount 1634,4,
-Accoount 1635,4,
-Accoount 1636,4,
-Accoount 1637,2,At-Risk or New Customers
-Accoount 1638,2,At-Risk or New Customers
-Accoount 1639,2,At-Risk or New Customers
-Accoount 1640,5,
-Accoount 1641,8,
-Accoount 1642,2,At-Risk or New Customers
-Accoount 1643,7,
-Accoount 1644,5,
-Accoount 1646,0,Loyal High Spenders
-Accoount 1647,2,At-Risk or New Customers
-Accoount 1648,6,
+Accoount 1631,9,
+Accoount 1632,9,
+Accoount 1633,9,
+Accoount 1634,9,
+Accoount 1635,9,
+Accoount 1636,9,
+Accoount 1637,3,High Potential Prospects
+Accoount 1638,3,High Potential Prospects
+Accoount 1639,3,High Potential Prospects
+Accoount 1640,7,
+Accoount 1641,2,At-Risk or New Customers
+Accoount 1642,3,High Potential Prospects
+Accoount 1643,0,Loyal High Spenders
+Accoount 1644,7,
+Accoount 1645,8,
+Accoount 1646,5,
+Accoount 1647,3,High Potential Prospects
+Accoount 1648,4,
 Accoount 1649,1,Occasional Bargain Seekers
-Accoount 1650,2,At-Risk or New Customers
-Accoount 1651,9,
-Accoount 1652,3,High Potential Prospects
-Accoount 1653,8,
-Accoount 1654,2,At-Risk or New Customers
-Accoount 1655,2,At-Risk or New Customers
-Accoount 1657,5,
-Accoount 1658,8,
+Accoount 1650,3,High Potential Prospects
+Accoount 1651,1,Occasional Bargain Seekers
+Accoount 1652,4,
+Accoount 1653,2,At-Risk or New Customers
+Accoount 1654,3,High Potential Prospects
+Accoount 1655,3,High Potential Prospects
+Accoount 1656,2,At-Risk or New Customers
+Accoount 1657,6,
+Accoount 1658,2,At-Risk or New Customers
 Accoount 1659,1,Occasional Bargain Seekers
 Accoount 1660,1,Occasional Bargain Seekers
 Accoount 1661,1,Occasional Bargain Seekers
-Accoount 1662,4,
-Accoount 1663,2,At-Risk or New Customers
-Accoount 1664,4,
-Accoount 1665,4,
-Accoount 1666,4,
+Accoount 1662,5,
+Accoount 1663,3,High Potential Prospects
+Accoount 1664,9,
+Accoount 1665,9,
+Accoount 1666,9,
 Accoount 1667,1,Occasional Bargain Seekers
-Accoount 1668,5,
-Accoount 1669,2,At-Risk or New Customers
-Accoount 1670,2,At-Risk or New Customers
+Accoount 1668,7,
+Accoount 1669,3,High Potential Prospects
+Accoount 1670,3,High Potential Prospects
+Accoount 1671,6,
 Accoount 1672,1,Occasional Bargain Seekers
-Accoount 1673,5,
-Accoount 1674,4,
-Accoount 1675,2,At-Risk or New Customers
-Accoount 1676,9,
-Accoount 1677,2,At-Risk or New Customers
-Accoount 1678,4,
-Accoount 1679,6,
-Accoount 1680,2,At-Risk or New Customers
-Accoount 1681,5,
-Accoount 1686,3,High Potential Prospects
+Accoount 1673,7,
+Accoount 1674,5,
+Accoount 1675,3,High Potential Prospects
+Accoount 1676,1,Occasional Bargain Seekers
+Accoount 1677,3,High Potential Prospects
+Accoount 1678,9,
+Accoount 1679,4,
+Accoount 1680,3,High Potential Prospects
+Accoount 1681,7,
+Accoount 1682,6,
+Accoount 1683,8,
+Accoount 1684,6,
+Accoount 1685,7,
+Accoount 1686,4,
 Accoount 1687,5,
+Accoount 1688,4,
+Accoount 1689,8,
 Accoount 1690,5,
 Accoount 1691,1,Occasional Bargain Seekers
 Accoount 1692,1,Occasional Bargain Seekers
-Accoount 1693,3,High Potential Prospects
+Accoount 1693,8,
 Accoount 1694,5,
-Accoount 1696,5,
-Accoount 1697,2,At-Risk or New Customers
-Accoount 1698,2,At-Risk or New Customers
-Accoount 1699,7,
-Accoount 1700,5,
+Accoount 1695,4,
+Accoount 1696,6,
+Accoount 1697,3,High Potential Prospects
+Accoount 1698,3,High Potential Prospects
+Accoount 1699,0,Loyal High Spenders
+Accoount 1700,7,
 Accoount 1701,1,Occasional Bargain Seekers
-Accoount 1702,2,At-Risk or New Customers
+Accoount 1702,3,High Potential Prospects
 Accoount 1703,1,Occasional Bargain Seekers
-Accoount 1705,2,At-Risk or New Customers
-Accoount 1706,9,
-Accoount 1707,9,
-Accoount 1709,5,
+Accoount 1704,0,Loyal High Spenders
+Accoount 1705,3,High Potential Prospects
+Accoount 1706,1,Occasional Bargain Seekers
+Accoount 1707,3,High Potential Prospects
+Accoount 1708,6,
+Accoount 1709,6,
+Accoount 1710,4,
 Accoount 1711,5,
-Accoount 1712,9,
+Accoount 1712,3,High Potential Prospects
 Accoount 1713,5,
 Accoount 1714,1,Occasional Bargain Seekers
 Accoount 1715,1,Occasional Bargain Seekers
-Accoount 1716,3,High Potential Prospects
-Accoount 1718,2,At-Risk or New Customers
-Accoount 1720,8,
-Accoount 1722,7,
-Accoount 1723,2,At-Risk or New Customers
-Accoount 1724,8,
-Accoount 1725,2,At-Risk or New Customers
-Accoount 1726,4,
-Accoount 1727,2,At-Risk or New Customers
-Accoount 1728,5,
-Accoount 1729,2,At-Risk or New Customers
-Accoount 1730,9,
-Accoount 1733,3,High Potential Prospects
+Accoount 1716,8,
+Accoount 1717,7,
+Accoount 1718,3,High Potential Prospects
+Accoount 1719,0,Loyal High Spenders
+Accoount 1720,6,
+Accoount 1721,6,
+Accoount 1722,0,Loyal High Spenders
+Accoount 1723,3,High Potential Prospects
+Accoount 1724,2,At-Risk or New Customers
+Accoount 1725,3,High Potential Prospects
+Accoount 1726,9,
+Accoount 1727,3,High Potential Prospects
+Accoount 1728,7,
+Accoount 1729,3,High Potential Prospects
+Accoount 1730,1,Occasional Bargain Seekers
+Accoount 1731,4,
+Accoount 1732,6,
+Accoount 1733,5,
+Accoount 1734,2,At-Risk or New Customers
+Accoount 1735,6,
+Accoount 1736,6,
+Accoount 1737,7,
 Accoount 1739,5,
-Accoount 1740,2,At-Risk or New Customers
-Accoount 1741,9,
-Accoount 1742,2,At-Risk or New Customers
-Accoount 1743,2,At-Risk or New Customers
-Accoount 1744,2,At-Risk or New Customers
-Accoount 1745,2,At-Risk or New Customers
-Accoount 1748,0,Loyal High Spenders
-Accoount 1749,8,
-Accoount 1750,4,
-Accoount 1751,8,
-Accoount 1752,2,At-Risk or New Customers
-Accoount 1753,4,
-Accoount 1754,2,At-Risk or New Customers
-Accoount 1755,7,
-Accoount 1756,5,
-Accoount 1758,2,At-Risk or New Customers
-Accoount 1759,2,At-Risk or New Customers
-Accoount 1760,3,High Potential Prospects
-Accoount 1761,2,At-Risk or New Customers
-Accoount 1762,4,
-Accoount 1764,7,
-Accoount 1765,2,At-Risk or New Customers
-Accoount 1766,5,
-Accoount 1769,5,
-Accoount 1770,2,At-Risk or New Customers
-Accoount 1771,2,At-Risk or New Customers
-Accoount 1773,5,
-Accoount 1776,4,
-Accoount 1778,2,At-Risk or New Customers
-Accoount 1779,8,
-Accoount 1780,6,
-Accoount 1781,2,At-Risk or New Customers
-Accoount 1782,2,At-Risk or New Customers
-Accoount 1783,4,
-Accoount 1784,4,
+Accoount 1740,3,High Potential Prospects
+Accoount 1741,3,High Potential Prospects
+Accoount 1742,3,High Potential Prospects
+Accoount 1743,3,High Potential Prospects
+Accoount 1744,3,High Potential Prospects
+Accoount 1745,3,High Potential Prospects
+Accoount 1746,6,
+Accoount 1747,6,
+Accoount 1748,1,Occasional Bargain Seekers
+Accoount 1749,2,At-Risk or New Customers
+Accoount 1750,9,
+Accoount 1751,2,At-Risk or New Customers
+Accoount 1752,3,High Potential Prospects
+Accoount 1753,9,
+Accoount 1754,3,High Potential Prospects
+Accoount 1755,0,Loyal High Spenders
+Accoount 1756,6,
+Accoount 1758,3,High Potential Prospects
+Accoount 1759,3,High Potential Prospects
+Accoount 1760,8,
+Accoount 1761,3,High Potential Prospects
+Accoount 1762,9,
+Accoount 1763,6,
+Accoount 1764,0,Loyal High Spenders
+Accoount 1765,3,High Potential Prospects
+Accoount 1766,6,
+Accoount 1767,4,
+Accoount 1768,0,Loyal High Spenders
+Accoount 1769,6,
+Accoount 1770,3,High Potential Prospects
+Accoount 1771,3,High Potential Prospects
+Accoount 1773,7,
+Accoount 1774,8,
+Accoount 1775,8,
+Accoount 1776,9,
+Accoount 1777,4,
+Accoount 1778,3,High Potential Prospects
+Accoount 1779,2,At-Risk or New Customers
+Accoount 1780,4,
+Accoount 1781,3,High Potential Prospects
+Accoount 1782,3,High Potential Prospects
+Accoount 1783,9,
+Accoount 1784,9,
 Accoount 1785,1,Occasional Bargain Seekers
-Accoount 1786,4,
-Accoount 1790,8,
-Accoount 1791,2,At-Risk or New Customers
-Accoount 1792,6,
-Accoount 1796,2,At-Risk or New Customers
-Accoount 1797,2,At-Risk or New Customers
-Accoount 1798,2,At-Risk or New Customers
-Accoount 1799,4,
-Accoount 1801,2,At-Risk or New Customers
-Accoount 1802,5,
-Accoount 1806,3,High Potential Prospects
-Accoount 1808,7,
-Accoount 1809,4,
-Accoount 1810,8,
-Accoount 1811,9,
-Accoount 1812,9,
-Accoount 1813,9,
-Accoount 1814,3,High Potential Prospects
-Accoount 1815,3,High Potential Prospects
-Accoount 1817,4,
-Accoount 1818,3,High Potential Prospects
-Accoount 1819,8,
-Accoount 1821,2,At-Risk or New Customers
-Accoount 1822,2,At-Risk or New Customers
-Accoount 1823,5,
-Accoount 1824,5,
-Accoount 1826,2,At-Risk or New Customers
-Accoount 1827,5,
-Accoount 1828,5,
-Accoount 1830,2,At-Risk or New Customers
-Accoount 1831,4,
-Accoount 1832,7,
-Accoount 1833,9,
-Accoount 1834,8,
-Accoount 1835,6,
-Accoount 1836,4,
-Accoount 1837,2,At-Risk or New Customers
-Accoount 1838,2,At-Risk or New Customers
-Accoount 1840,2,At-Risk or New Customers
-Accoount 1844,9,
-Accoount 1845,9,
-Accoount 1846,9,
-Accoount 1847,2,At-Risk or New Customers
-Accoount 1848,5,
-Accoount 1849,8,
-Accoount 1850,7,
+Accoount 1786,9,
+Accoount 1788,0,Loyal High Spenders
+Accoount 1789,2,At-Risk or New Customers
+Accoount 1790,2,At-Risk or New Customers
+Accoount 1791,3,High Potential Prospects
+Accoount 1792,4,
+Accoount 1793,6,
+Accoount 1794,9,
+Accoount 1795,7,
+Accoount 1796,3,High Potential Prospects
+Accoount 1797,3,High Potential Prospects
+Accoount 1798,3,High Potential Prospects
+Accoount 1799,9,
+Accoount 1800,4,
+Accoount 1801,3,High Potential Prospects
+Accoount 1802,6,
+Accoount 1803,6,
+Accoount 1804,8,
+Accoount 1805,6,
+Accoount 1806,4,
+Accoount 1807,4,
+Accoount 1808,0,Loyal High Spenders
+Accoount 1809,5,
+Accoount 1810,2,At-Risk or New Customers
+Accoount 1811,1,Occasional Bargain Seekers
+Accoount 1812,3,High Potential Prospects
+Accoount 1813,1,Occasional Bargain Seekers
+Accoount 1814,8,
+Accoount 1815,4,
+Accoount 1816,6,
+Accoount 1817,5,
+Accoount 1818,4,
+Accoount 1819,2,At-Risk or New Customers
+Accoount 1820,5,
+Accoount 1821,3,High Potential Prospects
+Accoount 1822,3,High Potential Prospects
+Accoount 1823,6,
+Accoount 1824,6,
+Accoount 1825,4,
+Accoount 1826,3,High Potential Prospects
+Accoount 1827,6,
+Accoount 1828,6,
+Accoount 1829,7,
+Accoount 1830,3,High Potential Prospects
+Accoount 1831,5,
+Accoount 1832,0,Loyal High Spenders
+Accoount 1833,1,Occasional Bargain Seekers
+Accoount 1834,2,At-Risk or New Customers
+Accoount 1835,8,
+Accoount 1836,9,
+Accoount 1837,3,High Potential Prospects
+Accoount 1838,3,High Potential Prospects
+Accoount 1839,4,
+Accoount 1840,3,High Potential Prospects
+Accoount 1841,6,
+Accoount 1842,6,
+Accoount 1843,2,At-Risk or New Customers
+Accoount 1844,3,High Potential Prospects
+Accoount 1845,3,High Potential Prospects
+Accoount 1846,3,High Potential Prospects
+Accoount 1847,3,High Potential Prospects
+Accoount 1848,6,
+Accoount 1849,2,At-Risk or New Customers
+Accoount 1850,0,Loyal High Spenders
 Accoount 1851,1,Occasional Bargain Seekers
-Accoount 1852,2,At-Risk or New Customers
-Accoount 1855,6,
-Accoount 1857,8,
-Accoount 1858,0,Loyal High Spenders
-Accoount 1859,9,
-Accoount 1860,3,High Potential Prospects
-Accoount 1862,2,At-Risk or New Customers
-Accoount 1864,2,At-Risk or New Customers
-Accoount 1865,2,At-Risk or New Customers
-Accoount 1867,3,High Potential Prospects
-Accoount 1870,3,High Potential Prospects
-Accoount 1872,5,
-Accoount 1873,6,
-Accoount 1874,9,
-Accoount 1875,2,At-Risk or New Customers
-Accoount 1876,9,
-Accoount 1877,3,High Potential Prospects
-Accoount 1879,2,At-Risk or New Customers
+Accoount 1852,3,High Potential Prospects
+Accoount 1853,0,Loyal High Spenders
+Accoount 1854,6,
+Accoount 1855,8,
+Accoount 1856,4,
+Accoount 1857,2,At-Risk or New Customers
+Accoount 1858,9,
+Accoount 1859,3,High Potential Prospects
+Accoount 1860,4,
+Accoount 1861,8,
+Accoount 1862,3,High Potential Prospects
+Accoount 1863,8,
+Accoount 1864,3,High Potential Prospects
+Accoount 1865,3,High Potential Prospects
+Accoount 1866,7,
+Accoount 1867,4,
+Accoount 1868,4,
+Accoount 1869,7,
+Accoount 1870,8,
+Accoount 1871,7,
+Accoount 1872,7,
+Accoount 1873,8,
+Accoount 1874,3,High Potential Prospects
+Accoount 1875,3,High Potential Prospects
+Accoount 1876,1,Occasional Bargain Seekers
+Accoount 1877,4,
+Accoount 1878,7,
+Accoount 1879,3,High Potential Prospects
 Accoount 1880,1,Occasional Bargain Seekers
 Accoount 1881,1,Occasional Bargain Seekers
-Accoount 1882,3,High Potential Prospects
-Accoount 1883,2,At-Risk or New Customers
-Accoount 1884,2,At-Risk or New Customers
-Accoount 1885,2,At-Risk or New Customers
+Accoount 1882,8,
+Accoount 1883,3,High Potential Prospects
+Accoount 1884,3,High Potential Prospects
+Accoount 1885,3,High Potential Prospects
+Accoount 1886,6,
 Accoount 1887,1,Occasional Bargain Seekers
+Accoount 1888,4,
 Accoount 1889,1,Occasional Bargain Seekers
-Accoount 1890,5,
-Accoount 1892,2,At-Risk or New Customers
-Accoount 1893,2,At-Risk or New Customers
-Accoount 1894,2,At-Risk or New Customers
-Accoount 1895,2,At-Risk or New Customers
-Accoount 1896,2,At-Risk or New Customers
-Accoount 1897,2,At-Risk or New Customers
+Accoount 1890,6,
+Accoount 1891,8,
+Accoount 1892,3,High Potential Prospects
+Accoount 1893,3,High Potential Prospects
+Accoount 1894,3,High Potential Prospects
+Accoount 1895,3,High Potential Prospects
+Accoount 1896,3,High Potential Prospects
+Accoount 1897,3,High Potential Prospects
 Accoount 1898,5,
-Accoount 1899,2,At-Risk or New Customers
-Accoount 1900,9,
-Accoount 1901,5,
-Accoount 1902,3,High Potential Prospects
-Accoount 1903,4,
-Accoount 1904,8,
-Accoount 1905,9,
-Accoount 1906,4,
-Accoount 1907,8,
-Accoount 1908,6,
-Accoount 1909,9,
-Accoount 1910,2,At-Risk or New Customers
-Accoount 1911,2,At-Risk or New Customers
-Accoount 1912,2,At-Risk or New Customers
-Accoount 1913,9,
-Accoount 1914,5,
-Accoount 1921,9,
+Accoount 1899,3,High Potential Prospects
+Accoount 1900,1,Occasional Bargain Seekers
+Accoount 1901,6,
+Accoount 1902,8,
+Accoount 1903,9,
+Accoount 1904,2,At-Risk or New Customers
+Accoount 1905,3,High Potential Prospects
+Accoount 1906,9,
+Accoount 1907,2,At-Risk or New Customers
+Accoount 1908,8,
+Accoount 1909,3,High Potential Prospects
+Accoount 1910,3,High Potential Prospects
+Accoount 1911,3,High Potential Prospects
+Accoount 1912,1,Occasional Bargain Seekers
+Accoount 1913,1,Occasional Bargain Seekers
+Accoount 1914,6,
+Accoount 1915,2,At-Risk or New Customers
+Accoount 1916,6,
+Accoount 1917,7,
+Accoount 1918,7,
+Accoount 1919,5,
+Accoount 1920,6,
+Accoount 1921,1,Occasional Bargain Seekers
 Accoount 1922,1,Occasional Bargain Seekers
-Accoount 1923,5,
-Accoount 1925,3,High Potential Prospects
-Accoount 1926,3,High Potential Prospects
-Accoount 1927,5,
-Accoount 1928,2,At-Risk or New Customers
-Accoount 1929,9,
+Accoount 1923,3,High Potential Prospects
+Accoount 1924,9,
+Accoount 1925,8,
+Accoount 1926,8,
+Accoount 1927,6,
+Accoount 1928,3,High Potential Prospects
+Accoount 1929,3,High Potential Prospects
 Accoount 1930,1,Occasional Bargain Seekers
-Accoount 1931,2,At-Risk or New Customers
-Accoount 1932,6,
-Accoount 1934,6,
-Accoount 1935,2,At-Risk or New Customers
+Accoount 1931,3,High Potential Prospects
+Accoount 1932,8,
+Accoount 1933,6,
+Accoount 1934,4,
+Accoount 1935,3,High Potential Prospects
 Accoount 1936,1,Occasional Bargain Seekers
-Accoount 1937,2,At-Risk or New Customers
-Accoount 1940,6,
-Accoount 1941,2,At-Risk or New Customers
-Accoount 1943,4,
-Accoount 1944,2,At-Risk or New Customers
-Accoount 1946,2,At-Risk or New Customers
-Accoount 1947,2,At-Risk or New Customers
-Accoount 1948,0,Loyal High Spenders
-Accoount 1949,2,At-Risk or New Customers
-Accoount 1950,2,At-Risk or New Customers
+Accoount 1937,1,Occasional Bargain Seekers
+Accoount 1938,6,
+Accoount 1939,6,
+Accoount 1940,8,
+Accoount 1941,3,High Potential Prospects
+Accoount 1942,8,
+Accoount 1943,9,
+Accoount 1944,3,High Potential Prospects
+Accoount 1946,3,High Potential Prospects
+Accoount 1947,3,High Potential Prospects
+Accoount 1948,1,Occasional Bargain Seekers
+Accoount 1949,3,High Potential Prospects
+Accoount 1950,3,High Potential Prospects
 Accoount 1951,1,Occasional Bargain Seekers
-Accoount 1952,2,At-Risk or New Customers
+Accoount 1952,3,High Potential Prospects
 Accoount 1953,1,Occasional Bargain Seekers
 Accoount 1954,1,Occasional Bargain Seekers
-Accoount 1955,2,At-Risk or New Customers
-Accoount 1956,2,At-Risk or New Customers
-Accoount 1957,2,At-Risk or New Customers
+Accoount 1955,3,High Potential Prospects
+Accoount 1956,3,High Potential Prospects
+Accoount 1957,3,High Potential Prospects
 Accoount 1958,1,Occasional Bargain Seekers
-Accoount 1959,2,At-Risk or New Customers
+Accoount 1959,3,High Potential Prospects
 Accoount 1960,1,Occasional Bargain Seekers
-Accoount 1961,2,At-Risk or New Customers
-Accoount 1962,9,
-Accoount 1963,9,
-Accoount 1964,9,
-Accoount 1965,9,
-Accoount 1966,0,Loyal High Spenders
-Accoount 1967,9,
-Accoount 1968,0,Loyal High Spenders
-Accoount 1969,9,
-Accoount 1970,0,Loyal High Spenders
-Accoount 1971,9,
-Accoount 1972,9,
-Accoount 1973,9,
-Accoount 1974,9,
-Accoount 1975,0,Loyal High Spenders
-Accoount 1976,9,
-Accoount 1977,0,Loyal High Spenders
-Accoount 1978,9,
+Accoount 1961,3,High Potential Prospects
+Accoount 1962,3,High Potential Prospects
+Accoount 1963,3,High Potential Prospects
+Accoount 1964,1,Occasional Bargain Seekers
+Accoount 1965,3,High Potential Prospects
+Accoount 1966,3,High Potential Prospects
+Accoount 1967,3,High Potential Prospects
+Accoount 1968,3,High Potential Prospects
+Accoount 1969,3,High Potential Prospects
+Accoount 1970,3,High Potential Prospects
+Accoount 1971,1,Occasional Bargain Seekers
+Accoount 1972,1,Occasional Bargain Seekers
+Accoount 1973,3,High Potential Prospects
+Accoount 1974,3,High Potential Prospects
+Accoount 1975,3,High Potential Prospects
+Accoount 1976,1,Occasional Bargain Seekers
+Accoount 1977,1,Occasional Bargain Seekers
+Accoount 1978,1,Occasional Bargain Seekers
 Accoount 1979,1,Occasional Bargain Seekers
-Accoount 1980,2,At-Risk or New Customers
-Accoount 1981,2,At-Risk or New Customers
-Accoount 1982,9,
-Accoount 1983,9,
-Accoount 1984,2,At-Risk or New Customers
-Accoount 1985,2,At-Risk or New Customers
+Accoount 1980,3,High Potential Prospects
+Accoount 1981,3,High Potential Prospects
+Accoount 1982,1,Occasional Bargain Seekers
+Accoount 1983,1,Occasional Bargain Seekers
+Accoount 1984,3,High Potential Prospects
+Accoount 1985,3,High Potential Prospects
 Accoount 1986,1,Occasional Bargain Seekers
-Accoount 1987,2,At-Risk or New Customers
+Accoount 1987,3,High Potential Prospects
 Accoount 1988,1,Occasional Bargain Seekers
-Accoount 1989,9,
+Accoount 1989,1,Occasional Bargain Seekers
 Accoount 1990,1,Occasional Bargain Seekers
-Accoount 1991,2,At-Risk or New Customers
-Accoount 1992,9,
-Accoount 1993,2,At-Risk or New Customers
-Accoount 1994,2,At-Risk or New Customers
-Accoount 1995,2,At-Risk or New Customers
-Accoount 1996,2,At-Risk or New Customers
-Accoount 1997,9,
-Accoount 1998,0,Loyal High Spenders
-Accoount 1999,9,
-Accoount 2000,9,
-Accoount 2001,0,Loyal High Spenders
-Accoount 2002,0,Loyal High Spenders
-Accoount 2003,9,
-Accoount 2004,9,
-Accoount 2005,0,Loyal High Spenders
-Accoount 2006,2,At-Risk or New Customers
-Accoount 2007,9,
-Accoount 2008,2,At-Risk or New Customers
-Accoount 2009,2,At-Risk or New Customers
-Accoount 2010,2,At-Risk or New Customers
-Accoount 2011,2,At-Risk or New Customers
+Accoount 1991,3,High Potential Prospects
+Accoount 1992,1,Occasional Bargain Seekers
+Accoount 1993,3,High Potential Prospects
+Accoount 1994,3,High Potential Prospects
+Accoount 1995,3,High Potential Prospects
+Accoount 1996,3,High Potential Prospects
+Accoount 1997,3,High Potential Prospects
+Accoount 1998,3,High Potential Prospects
+Accoount 1999,1,Occasional Bargain Seekers
+Accoount 2000,1,Occasional Bargain Seekers
+Accoount 2001,1,Occasional Bargain Seekers
+Accoount 2002,3,High Potential Prospects
+Accoount 2003,1,Occasional Bargain Seekers
+Accoount 2004,1,Occasional Bargain Seekers
+Accoount 2005,3,High Potential Prospects
+Accoount 2006,1,Occasional Bargain Seekers
+Accoount 2007,1,Occasional Bargain Seekers
+Accoount 2008,3,High Potential Prospects
+Accoount 2009,3,High Potential Prospects
+Accoount 2010,3,High Potential Prospects
+Accoount 2011,1,Occasional Bargain Seekers
 Accoount 2012,1,Occasional Bargain Seekers
-Accoount 2013,9,
-Accoount 2014,2,At-Risk or New Customers
-Accoount 2015,2,At-Risk or New Customers
+Accoount 2013,3,High Potential Prospects
+Accoount 2014,3,High Potential Prospects
+Accoount 2015,3,High Potential Prospects
 Accoount 2016,1,Occasional Bargain Seekers
-Accoount 2017,2,At-Risk or New Customers
-Accoount 2018,2,At-Risk or New Customers
+Accoount 2017,3,High Potential Prospects
+Accoount 2018,3,High Potential Prospects
 Accoount 2019,1,Occasional Bargain Seekers
-Accoount 2020,2,At-Risk or New Customers
-Accoount 2021,0,Loyal High Spenders
+Accoount 2020,3,High Potential Prospects
+Accoount 2021,1,Occasional Bargain Seekers
 Accoount 2022,1,Occasional Bargain Seekers
-Accoount 2023,0,Loyal High Spenders
-Accoount 2024,9,
-Accoount 2025,9,
-Accoount 2026,0,Loyal High Spenders
-Accoount 2027,9,
-Accoount 2028,0,Loyal High Spenders
-Accoount 2029,0,Loyal High Spenders
-Accoount 2030,0,Loyal High Spenders
-Accoount 2031,9,
-Accoount 2032,0,Loyal High Spenders
-Accoount 2033,9,
-Accoount 2034,2,At-Risk or New Customers
-Accoount 2035,9,
-Accoount 2036,2,At-Risk or New Customers
-Accoount 2037,9,
+Accoount 2023,1,Occasional Bargain Seekers
+Accoount 2024,3,High Potential Prospects
+Accoount 2025,3,High Potential Prospects
+Accoount 2026,1,Occasional Bargain Seekers
+Accoount 2027,3,High Potential Prospects
+Accoount 2028,1,Occasional Bargain Seekers
+Accoount 2029,1,Occasional Bargain Seekers
+Accoount 2030,1,Occasional Bargain Seekers
+Accoount 2031,3,High Potential Prospects
+Accoount 2032,1,Occasional Bargain Seekers
+Accoount 2033,3,High Potential Prospects
+Accoount 2034,1,Occasional Bargain Seekers
+Accoount 2035,1,Occasional Bargain Seekers
+Accoount 2036,3,High Potential Prospects
+Accoount 2037,3,High Potential Prospects
 Accoount 2038,1,Occasional Bargain Seekers
-Accoount 2039,9,
-Accoount 2040,2,At-Risk or New Customers
-Accoount 2041,2,At-Risk or New Customers
-Accoount 2042,2,At-Risk or New Customers
-Accoount 2043,2,At-Risk or New Customers
-Accoount 2044,2,At-Risk or New Customers
-Accoount 2045,2,At-Risk or New Customers
-Accoount 2046,2,At-Risk or New Customers
-Accoount 2047,2,At-Risk or New Customers
+Accoount 2039,3,High Potential Prospects
+Accoount 2040,3,High Potential Prospects
+Accoount 2041,3,High Potential Prospects
+Accoount 2042,3,High Potential Prospects
+Accoount 2043,3,High Potential Prospects
+Accoount 2044,3,High Potential Prospects
+Accoount 2045,3,High Potential Prospects
+Accoount 2046,3,High Potential Prospects
+Accoount 2047,3,High Potential Prospects
 Accoount 2048,1,Occasional Bargain Seekers
 Accoount 2049,1,Occasional Bargain Seekers
-Accoount 2050,2,At-Risk or New Customers
-Accoount 2051,2,At-Risk or New Customers
-Accoount 2052,2,At-Risk or New Customers
-Accoount 2053,2,At-Risk or New Customers
-Accoount 2054,9,
-Accoount 2055,9,
-Accoount 2056,2,At-Risk or New Customers
-Accoount 2057,2,At-Risk or New Customers
-Accoount 2058,0,Loyal High Spenders
-Accoount 2059,2,At-Risk or New Customers
-Accoount 2060,9,
-Accoount 2061,2,At-Risk or New Customers
-Accoount 2062,9,
-Accoount 2063,0,Loyal High Spenders
-Accoount 2064,0,Loyal High Spenders
-Accoount 2065,9,
-Accoount 2066,9,
-Accoount 2067,0,Loyal High Spenders
-Accoount 2068,9,
-Accoount 2069,0,Loyal High Spenders
-Accoount 2070,9,
-Accoount 2071,0,Loyal High Spenders
-Accoount 2072,2,At-Risk or New Customers
-Accoount 2073,9,
+Accoount 2050,3,High Potential Prospects
+Accoount 2051,3,High Potential Prospects
+Accoount 2052,3,High Potential Prospects
+Accoount 2053,3,High Potential Prospects
+Accoount 2054,3,High Potential Prospects
+Accoount 2055,3,High Potential Prospects
+Accoount 2056,3,High Potential Prospects
+Accoount 2057,3,High Potential Prospects
+Accoount 2058,3,High Potential Prospects
+Accoount 2059,1,Occasional Bargain Seekers
+Accoount 2060,3,High Potential Prospects
+Accoount 2061,1,Occasional Bargain Seekers
+Accoount 2062,3,High Potential Prospects
+Accoount 2063,3,High Potential Prospects
+Accoount 2064,3,High Potential Prospects
+Accoount 2065,1,Occasional Bargain Seekers
+Accoount 2066,1,Occasional Bargain Seekers
+Accoount 2067,3,High Potential Prospects
+Accoount 2068,3,High Potential Prospects
+Accoount 2069,1,Occasional Bargain Seekers
+Accoount 2070,1,Occasional Bargain Seekers
+Accoount 2071,1,Occasional Bargain Seekers
+Accoount 2072,1,Occasional Bargain Seekers
+Accoount 2073,1,Occasional Bargain Seekers
 Accoount 2074,1,Occasional Bargain Seekers
-Accoount 2075,2,At-Risk or New Customers
-Accoount 2076,2,At-Risk or New Customers
-Accoount 2077,9,
-Accoount 2078,2,At-Risk or New Customers
+Accoount 2075,3,High Potential Prospects
+Accoount 2076,3,High Potential Prospects
+Accoount 2077,3,High Potential Prospects
+Accoount 2078,3,High Potential Prospects
 Accoount 2079,1,Occasional Bargain Seekers
-Accoount 2080,2,At-Risk or New Customers
+Accoount 2080,3,High Potential Prospects
 Accoount 2081,1,Occasional Bargain Seekers
-Accoount 2082,2,At-Risk or New Customers
-Accoount 2083,9,
-Accoount 2084,2,At-Risk or New Customers
-Accoount 2085,2,At-Risk or New Customers
-Accoount 2086,2,At-Risk or New Customers
-Accoount 2087,2,At-Risk or New Customers
+Accoount 2082,3,High Potential Prospects
+Accoount 2083,1,Occasional Bargain Seekers
+Accoount 2084,3,High Potential Prospects
+Accoount 2085,3,High Potential Prospects
+Accoount 2086,3,High Potential Prospects
+Accoount 2087,3,High Potential Prospects
 Accoount 2088,1,Occasional Bargain Seekers
-Accoount 2089,9,
-Accoount 2090,0,Loyal High Spenders
-Accoount 2091,9,
-Accoount 2092,9,
-Accoount 2093,0,Loyal High Spenders
-Accoount 2094,9,
-Accoount 2095,2,At-Risk or New Customers
-Accoount 2096,2,At-Risk or New Customers
+Accoount 2089,1,Occasional Bargain Seekers
+Accoount 2090,3,High Potential Prospects
+Accoount 2091,3,High Potential Prospects
+Accoount 2092,3,High Potential Prospects
+Accoount 2093,1,Occasional Bargain Seekers
+Accoount 2094,1,Occasional Bargain Seekers
+Accoount 2095,3,High Potential Prospects
+Accoount 2096,3,High Potential Prospects
 Accoount 2097,1,Occasional Bargain Seekers
 Accoount 2098,1,Occasional Bargain Seekers
-Accoount 2099,9,
-Accoount 2100,9,
-Accoount 2101,2,At-Risk or New Customers
+Accoount 2099,1,Occasional Bargain Seekers
+Accoount 2100,1,Occasional Bargain Seekers
+Accoount 2101,3,High Potential Prospects
 Accoount 2102,1,Occasional Bargain Seekers
-Accoount 2103,2,At-Risk or New Customers
-Accoount 2104,2,At-Risk or New Customers
-Accoount 2105,2,At-Risk or New Customers
-Accoount 2106,2,At-Risk or New Customers
+Accoount 2103,3,High Potential Prospects
+Accoount 2104,3,High Potential Prospects
+Accoount 2105,3,High Potential Prospects
+Accoount 2106,3,High Potential Prospects
 Accoount 2107,1,Occasional Bargain Seekers
 Accoount 2108,1,Occasional Bargain Seekers
-Accoount 2109,9,
-Accoount 2110,2,At-Risk or New Customers
+Accoount 2109,3,High Potential Prospects
+Accoount 2110,3,High Potential Prospects
 Accoount 2111,1,Occasional Bargain Seekers
-Accoount 2112,2,At-Risk or New Customers
-Accoount 2113,2,At-Risk or New Customers
+Accoount 2112,3,High Potential Prospects
+Accoount 2113,3,High Potential Prospects
 Accoount 2114,1,Occasional Bargain Seekers
 Accoount 2115,1,Occasional Bargain Seekers
-Accoount 2116,2,At-Risk or New Customers
+Accoount 2116,3,High Potential Prospects
 Accoount 2117,1,Occasional Bargain Seekers
-Accoount 2118,2,At-Risk or New Customers
+Accoount 2118,3,High Potential Prospects
 Accoount 2119,1,Occasional Bargain Seekers
-Accoount 2120,9,
-Accoount 2121,9,
-Accoount 2122,9,
-Accoount 2123,9,
-Accoount 2124,0,Loyal High Spenders
-Accoount 2125,9,
+Accoount 2120,1,Occasional Bargain Seekers
+Accoount 2121,1,Occasional Bargain Seekers
+Accoount 2122,3,High Potential Prospects
+Accoount 2123,1,Occasional Bargain Seekers
+Accoount 2124,3,High Potential Prospects
+Accoount 2125,1,Occasional Bargain Seekers
 Accoount 2126,1,Occasional Bargain Seekers
-Accoount 2127,9,
-Accoount 2128,9,
-Accoount 2129,2,At-Risk or New Customers
-Accoount 2130,2,At-Risk or New Customers
-Accoount 2131,2,At-Risk or New Customers
-Accoount 2132,2,At-Risk or New Customers
+Accoount 2127,1,Occasional Bargain Seekers
+Accoount 2128,1,Occasional Bargain Seekers
+Accoount 2129,3,High Potential Prospects
+Accoount 2130,3,High Potential Prospects
+Accoount 2131,3,High Potential Prospects
+Accoount 2132,3,High Potential Prospects
 Accoount 2133,1,Occasional Bargain Seekers
-Accoount 2134,2,At-Risk or New Customers
-Accoount 2135,2,At-Risk or New Customers
-Accoount 2136,2,At-Risk or New Customers
-Accoount 2137,9,
-Accoount 2138,2,At-Risk or New Customers
-Accoount 2139,2,At-Risk or New Customers
+Accoount 2134,3,High Potential Prospects
+Accoount 2135,3,High Potential Prospects
+Accoount 2136,3,High Potential Prospects
+Accoount 2137,1,Occasional Bargain Seekers
+Accoount 2138,3,High Potential Prospects
+Accoount 2139,3,High Potential Prospects
 Accoount 2140,1,Occasional Bargain Seekers
-Accoount 2141,9,
+Accoount 2141,1,Occasional Bargain Seekers
 Accoount 2142,1,Occasional Bargain Seekers
-Accoount 2143,2,At-Risk or New Customers
-Accoount 2144,2,At-Risk or New Customers
-Accoount 2145,2,At-Risk or New Customers
-Accoount 2146,9,
-Accoount 2147,2,At-Risk or New Customers
+Accoount 2143,3,High Potential Prospects
+Accoount 2144,3,High Potential Prospects
+Accoount 2145,3,High Potential Prospects
+Accoount 2146,3,High Potential Prospects
+Accoount 2147,3,High Potential Prospects
 Accoount 2148,1,Occasional Bargain Seekers
-Accoount 2149,9,
-Accoount 2150,9,
-Accoount 2151,0,Loyal High Spenders
-Accoount 2152,9,
-Accoount 2153,0,Loyal High Spenders
-Accoount 2154,9,
-Accoount 2155,9,
-Accoount 2156,9,
-Accoount 2157,9,
-Accoount 2158,9,
-Accoount 2159,9,
-Accoount 2160,2,At-Risk or New Customers
-Accoount 2161,2,At-Risk or New Customers
+Accoount 2149,1,Occasional Bargain Seekers
+Accoount 2150,3,High Potential Prospects
+Accoount 2151,1,Occasional Bargain Seekers
+Accoount 2152,3,High Potential Prospects
+Accoount 2153,3,High Potential Prospects
+Accoount 2154,3,High Potential Prospects
+Accoount 2155,1,Occasional Bargain Seekers
+Accoount 2156,3,High Potential Prospects
+Accoount 2157,1,Occasional Bargain Seekers
+Accoount 2158,1,Occasional Bargain Seekers
+Accoount 2159,1,Occasional Bargain Seekers
+Accoount 2160,3,High Potential Prospects
+Accoount 2161,3,High Potential Prospects
 Accoount 2162,1,Occasional Bargain Seekers
-Accoount 2163,9,
-Accoount 2164,2,At-Risk or New Customers
-Accoount 2165,2,At-Risk or New Customers
+Accoount 2163,3,High Potential Prospects
+Accoount 2164,3,High Potential Prospects
+Accoount 2165,3,High Potential Prospects
 Accoount 2166,1,Occasional Bargain Seekers
-Accoount 2167,2,At-Risk or New Customers
-Accoount 2168,2,At-Risk or New Customers
-Accoount 2169,2,At-Risk or New Customers
+Accoount 2167,3,High Potential Prospects
+Accoount 2168,3,High Potential Prospects
+Accoount 2169,3,High Potential Prospects
 Accoount 2170,1,Occasional Bargain Seekers
-Accoount 2171,9,
+Accoount 2171,3,High Potential Prospects
 Accoount 2172,1,Occasional Bargain Seekers
-Accoount 2173,2,At-Risk or New Customers
-Accoount 2174,2,At-Risk or New Customers
-Accoount 2175,2,At-Risk or New Customers
+Accoount 2173,3,High Potential Prospects
+Accoount 2174,3,High Potential Prospects
+Accoount 2175,3,High Potential Prospects
 Accoount 2176,1,Occasional Bargain Seekers
-Accoount 2177,2,At-Risk or New Customers
-Accoount 2178,2,At-Risk or New Customers
-Accoount 2179,9,
-Accoount 2180,2,At-Risk or New Customers
-Accoount 2181,9,
-Accoount 2182,9,
-Accoount 2183,2,At-Risk or New Customers
-Accoount 2184,9,
+Accoount 2177,3,High Potential Prospects
+Accoount 2178,3,High Potential Prospects
+Accoount 2179,3,High Potential Prospects
+Accoount 2180,3,High Potential Prospects
+Accoount 2181,3,High Potential Prospects
+Accoount 2182,1,Occasional Bargain Seekers
+Accoount 2183,3,High Potential Prospects
+Accoount 2184,1,Occasional Bargain Seekers
 Accoount 2185,1,Occasional Bargain Seekers
 Accoount 2186,1,Occasional Bargain Seekers
-Accoount 2187,9,
-Accoount 2188,9,
-Accoount 2189,9,
-Accoount 2190,9,
-Accoount 2191,9,
-Accoount 2192,9,
-Accoount 2193,0,Loyal High Spenders
-Accoount 2194,0,Loyal High Spenders
-Accoount 2195,0,Loyal High Spenders
-Accoount 2196,9,
-Accoount 2197,9,
+Accoount 2187,1,Occasional Bargain Seekers
+Accoount 2188,3,High Potential Prospects
+Accoount 2189,1,Occasional Bargain Seekers
+Accoount 2190,3,High Potential Prospects
+Accoount 2191,3,High Potential Prospects
+Accoount 2192,1,Occasional Bargain Seekers
+Accoount 2193,1,Occasional Bargain Seekers
+Accoount 2194,1,Occasional Bargain Seekers
+Accoount 2195,1,Occasional Bargain Seekers
+Accoount 2196,3,High Potential Prospects
+Accoount 2197,1,Occasional Bargain Seekers
 Accoount 2198,1,Occasional Bargain Seekers
 Accoount 2199,1,Occasional Bargain Seekers
-Accoount 2200,0,Loyal High Spenders
-Accoount 2201,2,At-Risk or New Customers
-Accoount 2202,2,At-Risk or New Customers
-Accoount 2203,9,
-Accoount 2204,2,At-Risk or New Customers
-Accoount 2205,2,At-Risk or New Customers
+Accoount 2200,1,Occasional Bargain Seekers
+Accoount 2201,3,High Potential Prospects
+Accoount 2202,3,High Potential Prospects
+Accoount 2203,3,High Potential Prospects
+Accoount 2204,3,High Potential Prospects
+Accoount 2205,3,High Potential Prospects
 Accoount 2206,1,Occasional Bargain Seekers
-Accoount 2207,9,
-Accoount 2208,2,At-Risk or New Customers
+Accoount 2207,1,Occasional Bargain Seekers
+Accoount 2208,3,High Potential Prospects
 Accoount 2209,1,Occasional Bargain Seekers
-Accoount 2210,2,At-Risk or New Customers
-Accoount 2211,2,At-Risk or New Customers
+Accoount 2210,3,High Potential Prospects
+Accoount 2211,3,High Potential Prospects
 Accoount 2212,1,Occasional Bargain Seekers
-Accoount 2213,9,
-Accoount 2214,2,At-Risk or New Customers
-Accoount 2215,0,Loyal High Spenders
-Accoount 2216,0,Loyal High Spenders
-Accoount 2217,0,Loyal High Spenders
-Accoount 2218,0,Loyal High Spenders
-Accoount 2219,9,
-Accoount 2220,9,
-Accoount 2221,9,
-Accoount 2222,0,Loyal High Spenders
-Accoount 2223,9,
-Accoount 2224,9,
-Accoount 2225,2,At-Risk or New Customers
-Accoount 2226,2,At-Risk or New Customers
-Accoount 2227,9,
-Accoount 2228,9,
-Accoount 2229,4,
-Accoount 2230,2,At-Risk or New Customers
+Accoount 2213,1,Occasional Bargain Seekers
+Accoount 2214,3,High Potential Prospects
+Accoount 2215,1,Occasional Bargain Seekers
+Accoount 2216,3,High Potential Prospects
+Accoount 2217,1,Occasional Bargain Seekers
+Accoount 2218,3,High Potential Prospects
+Accoount 2219,1,Occasional Bargain Seekers
+Accoount 2220,1,Occasional Bargain Seekers
+Accoount 2221,3,High Potential Prospects
+Accoount 2222,1,Occasional Bargain Seekers
+Accoount 2223,1,Occasional Bargain Seekers
+Accoount 2224,3,High Potential Prospects
+Accoount 2225,3,High Potential Prospects
+Accoount 2226,1,Occasional Bargain Seekers
+Accoount 2227,1,Occasional Bargain Seekers
+Accoount 2228,1,Occasional Bargain Seekers
+Accoount 2229,9,
+Accoount 2230,3,High Potential Prospects
 Accoount 2231,1,Occasional Bargain Seekers
 Accoount 2232,1,Occasional Bargain Seekers
-Accoount 2233,9,
-Accoount 2234,2,At-Risk or New Customers
-Accoount 2235,2,At-Risk or New Customers
-Accoount 2236,2,At-Risk or New Customers
-Accoount 2237,2,At-Risk or New Customers
-Accoount 2238,2,At-Risk or New Customers
-Accoount 2239,9,
+Accoount 2233,3,High Potential Prospects
+Accoount 2234,1,Occasional Bargain Seekers
+Accoount 2235,3,High Potential Prospects
+Accoount 2236,3,High Potential Prospects
+Accoount 2237,3,High Potential Prospects
+Accoount 2238,3,High Potential Prospects
+Accoount 2239,3,High Potential Prospects
 Accoount 2240,1,Occasional Bargain Seekers
 Accoount 2241,1,Occasional Bargain Seekers
-Accoount 2242,2,At-Risk or New Customers
-Accoount 2243,2,At-Risk or New Customers
-Accoount 2244,2,At-Risk or New Customers
-Accoount 2245,2,At-Risk or New Customers
+Accoount 2242,3,High Potential Prospects
+Accoount 2243,3,High Potential Prospects
+Accoount 2244,3,High Potential Prospects
+Accoount 2245,3,High Potential Prospects
 Accoount 2246,1,Occasional Bargain Seekers
-Accoount 2247,0,Loyal High Spenders
-Accoount 2248,0,Loyal High Spenders
-Accoount 2249,9,
-Accoount 2250,9,
-Accoount 2251,9,
-Accoount 2252,0,Loyal High Spenders
-Accoount 2253,9,
-Accoount 2254,9,
-Accoount 2255,9,
-Accoount 2256,9,
-Accoount 2257,9,
-Accoount 2258,0,Loyal High Spenders
-Accoount 2259,2,At-Risk or New Customers
-Accoount 2260,2,At-Risk or New Customers
+Accoount 2247,3,High Potential Prospects
+Accoount 2248,1,Occasional Bargain Seekers
+Accoount 2249,3,High Potential Prospects
+Accoount 2250,3,High Potential Prospects
+Accoount 2251,1,Occasional Bargain Seekers
+Accoount 2252,1,Occasional Bargain Seekers
+Accoount 2253,1,Occasional Bargain Seekers
+Accoount 2254,1,Occasional Bargain Seekers
+Accoount 2255,1,Occasional Bargain Seekers
+Accoount 2256,1,Occasional Bargain Seekers
+Accoount 2257,3,High Potential Prospects
+Accoount 2258,1,Occasional Bargain Seekers
+Accoount 2259,3,High Potential Prospects
+Accoount 2260,3,High Potential Prospects
 Accoount 2261,1,Occasional Bargain Seekers
-Accoount 2262,2,At-Risk or New Customers
+Accoount 2262,1,Occasional Bargain Seekers
 Accoount 2263,1,Occasional Bargain Seekers
-Accoount 2264,9,
-Accoount 2265,9,
-Accoount 2266,2,At-Risk or New Customers
-Accoount 2267,2,At-Risk or New Customers
+Accoount 2264,1,Occasional Bargain Seekers
+Accoount 2265,3,High Potential Prospects
+Accoount 2266,3,High Potential Prospects
+Accoount 2267,3,High Potential Prospects
 Accoount 2268,1,Occasional Bargain Seekers
 Accoount 2269,1,Occasional Bargain Seekers
-Accoount 2270,2,At-Risk or New Customers
-Accoount 2271,2,At-Risk or New Customers
-Accoount 2272,2,At-Risk or New Customers
-Accoount 2273,2,At-Risk or New Customers
-Accoount 2274,2,At-Risk or New Customers
+Accoount 2270,3,High Potential Prospects
+Accoount 2271,3,High Potential Prospects
+Accoount 2272,3,High Potential Prospects
+Accoount 2273,3,High Potential Prospects
+Accoount 2274,3,High Potential Prospects
 Accoount 2275,1,Occasional Bargain Seekers
-Accoount 2276,2,At-Risk or New Customers
-Accoount 2277,2,At-Risk or New Customers
-Accoount 2278,2,At-Risk or New Customers
-Accoount 2279,9,
+Accoount 2276,3,High Potential Prospects
+Accoount 2277,3,High Potential Prospects
+Accoount 2278,3,High Potential Prospects
+Accoount 2279,3,High Potential Prospects
 Accoount 2280,1,Occasional Bargain Seekers
-Accoount 2281,0,Loyal High Spenders
-Accoount 2282,9,
-Accoount 2283,9,
-Accoount 2284,9,
-Accoount 2285,9,
-Accoount 2286,9,
-Accoount 2287,9,
-Accoount 2288,9,
-Accoount 2289,0,Loyal High Spenders
-Accoount 2290,9,
-Accoount 2291,9,
-Accoount 2292,2,At-Risk or New Customers
-Accoount 2293,2,At-Risk or New Customers
-Accoount 2294,2,At-Risk or New Customers
+Accoount 2281,3,High Potential Prospects
+Accoount 2282,3,High Potential Prospects
+Accoount 2283,3,High Potential Prospects
+Accoount 2284,3,High Potential Prospects
+Accoount 2285,3,High Potential Prospects
+Accoount 2286,3,High Potential Prospects
+Accoount 2287,1,Occasional Bargain Seekers
+Accoount 2288,3,High Potential Prospects
+Accoount 2289,3,High Potential Prospects
+Accoount 2290,3,High Potential Prospects
+Accoount 2291,1,Occasional Bargain Seekers
+Accoount 2292,3,High Potential Prospects
+Accoount 2293,3,High Potential Prospects
+Accoount 2294,3,High Potential Prospects
 Accoount 2295,1,Occasional Bargain Seekers
-Accoount 2296,9,
-Accoount 2297,9,
-Accoount 2298,2,At-Risk or New Customers
-Accoount 2299,9,
-Accoount 2300,4,
-Accoount 2301,9,
-Accoount 2302,9,
-Accoount 2303,9,
+Accoount 2296,1,Occasional Bargain Seekers
+Accoount 2297,1,Occasional Bargain Seekers
+Accoount 2298,3,High Potential Prospects
+Accoount 2299,3,High Potential Prospects
+Accoount 2300,9,
+Accoount 2301,1,Occasional Bargain Seekers
+Accoount 2302,3,High Potential Prospects
+Accoount 2303,3,High Potential Prospects
 Accoount 2304,1,Occasional Bargain Seekers
-Accoount 2305,2,At-Risk or New Customers
-Accoount 2306,2,At-Risk or New Customers
-Accoount 2307,2,At-Risk or New Customers
-Accoount 2308,2,At-Risk or New Customers
-Accoount 2309,9,
+Accoount 2305,3,High Potential Prospects
+Accoount 2306,3,High Potential Prospects
+Accoount 2307,3,High Potential Prospects
+Accoount 2308,3,High Potential Prospects
+Accoount 2309,3,High Potential Prospects
 Accoount 2310,1,Occasional Bargain Seekers
-Accoount 2311,2,At-Risk or New Customers
-Accoount 2312,2,At-Risk or New Customers
-Accoount 2313,9,
-Accoount 2314,9,
-Accoount 2315,5,
+Accoount 2311,3,High Potential Prospects
+Accoount 2312,3,High Potential Prospects
+Accoount 2313,1,Occasional Bargain Seekers
+Accoount 2314,1,Occasional Bargain Seekers
+Accoount 2315,3,High Potential Prospects
 Accoount 2316,1,Occasional Bargain Seekers
-Accoount 2317,9,
-Accoount 2318,2,At-Risk or New Customers
-Accoount 2319,9,
+Accoount 2317,1,Occasional Bargain Seekers
+Accoount 2318,3,High Potential Prospects
+Accoount 2319,3,High Potential Prospects
 Accoount 2320,1,Occasional Bargain Seekers
-Accoount 2321,9,
-Accoount 2322,9,
-Accoount 2323,9,
-Accoount 2324,9,
-Accoount 2325,9,
-Accoount 2326,0,Loyal High Spenders
-Accoount 2327,2,At-Risk or New Customers
+Accoount 2321,3,High Potential Prospects
+Accoount 2322,3,High Potential Prospects
+Accoount 2323,3,High Potential Prospects
+Accoount 2324,3,High Potential Prospects
+Accoount 2325,3,High Potential Prospects
+Accoount 2326,1,Occasional Bargain Seekers
+Accoount 2327,3,High Potential Prospects
 Accoount 2328,1,Occasional Bargain Seekers
 Accoount 2329,1,Occasional Bargain Seekers
-Accoount 2330,2,At-Risk or New Customers
+Accoount 2330,3,High Potential Prospects
 Accoount 2331,1,Occasional Bargain Seekers
-Accoount 2332,9,
-Accoount 2333,2,At-Risk or New Customers
-Accoount 2335,2,At-Risk or New Customers
-Accoount 2336,2,At-Risk or New Customers
-Accoount 2337,0,Loyal High Spenders
+Accoount 2332,3,High Potential Prospects
+Accoount 2333,3,High Potential Prospects
+Accoount 2334,0,Loyal High Spenders
+Accoount 2335,3,High Potential Prospects
+Accoount 2336,3,High Potential Prospects
+Accoount 2337,3,High Potential Prospects
 Accoount 2338,1,Occasional Bargain Seekers
-Accoount 2339,2,At-Risk or New Customers
-Accoount 2340,2,At-Risk or New Customers
-Accoount 2341,2,At-Risk or New Customers
+Accoount 2339,3,High Potential Prospects
+Accoount 2340,3,High Potential Prospects
+Accoount 2341,3,High Potential Prospects
 Accoount 2342,1,Occasional Bargain Seekers
-Accoount 2343,2,At-Risk or New Customers
-Accoount 2344,2,At-Risk or New Customers
-Accoount 2345,2,At-Risk or New Customers
-Accoount 2346,9,
-Accoount 2347,2,At-Risk or New Customers
-Accoount 2348,2,At-Risk or New Customers
-Accoount 2349,9,
+Accoount 2343,3,High Potential Prospects
+Accoount 2344,3,High Potential Prospects
+Accoount 2345,3,High Potential Prospects
+Accoount 2346,1,Occasional Bargain Seekers
+Accoount 2347,3,High Potential Prospects
+Accoount 2348,3,High Potential Prospects
+Accoount 2349,3,High Potential Prospects
 Accoount 2350,1,Occasional Bargain Seekers
-Accoount 2351,2,At-Risk or New Customers
-Accoount 2352,0,Loyal High Spenders
-Accoount 2353,9,
-Accoount 2354,9,
-Accoount 2355,9,
-Accoount 2356,9,
-Accoount 2357,0,Loyal High Spenders
-Accoount 2358,9,
-Accoount 2359,0,Loyal High Spenders
-Accoount 2360,9,
-Accoount 2361,9,
+Accoount 2351,3,High Potential Prospects
+Accoount 2352,3,High Potential Prospects
+Accoount 2353,3,High Potential Prospects
+Accoount 2354,1,Occasional Bargain Seekers
+Accoount 2355,3,High Potential Prospects
+Accoount 2356,3,High Potential Prospects
+Accoount 2357,3,High Potential Prospects
+Accoount 2358,3,High Potential Prospects
+Accoount 2359,1,Occasional Bargain Seekers
+Accoount 2360,1,Occasional Bargain Seekers
+Accoount 2361,1,Occasional Bargain Seekers
 Accoount 2362,1,Occasional Bargain Seekers
-Accoount 2363,0,Loyal High Spenders
-Accoount 2364,9,
-Accoount 2365,2,At-Risk or New Customers
-Accoount 2366,2,At-Risk or New Customers
-Accoount 2367,2,At-Risk or New Customers
-Accoount 2368,9,
-Accoount 2369,2,At-Risk or New Customers
+Accoount 2363,1,Occasional Bargain Seekers
+Accoount 2364,1,Occasional Bargain Seekers
+Accoount 2365,3,High Potential Prospects
+Accoount 2366,3,High Potential Prospects
+Accoount 2367,3,High Potential Prospects
+Accoount 2368,3,High Potential Prospects
+Accoount 2369,3,High Potential Prospects
 Accoount 2370,1,Occasional Bargain Seekers
-Accoount 2371,2,At-Risk or New Customers
-Accoount 2372,2,At-Risk or New Customers
-Accoount 2373,2,At-Risk or New Customers
-Accoount 2374,2,At-Risk or New Customers
-Accoount 2375,9,
+Accoount 2371,3,High Potential Prospects
+Accoount 2372,3,High Potential Prospects
+Accoount 2373,3,High Potential Prospects
+Accoount 2374,3,High Potential Prospects
+Accoount 2375,1,Occasional Bargain Seekers
 Accoount 2376,1,Occasional Bargain Seekers
 Accoount 2377,1,Occasional Bargain Seekers
 Accoount 2378,1,Occasional Bargain Seekers
-Accoount 2379,2,At-Risk or New Customers
-Accoount 2380,2,At-Risk or New Customers
+Accoount 2379,3,High Potential Prospects
+Accoount 2380,3,High Potential Prospects
 Accoount 2381,1,Occasional Bargain Seekers
-Accoount 2382,2,At-Risk or New Customers
-Accoount 2383,9,
+Accoount 2382,3,High Potential Prospects
+Accoount 2383,3,High Potential Prospects
 Accoount 2384,1,Occasional Bargain Seekers
-Accoount 2385,9,
-Accoount 2386,9,
-Accoount 2387,9,
-Accoount 2388,0,Loyal High Spenders
-Accoount 2389,9,
-Accoount 2390,9,
-Accoount 2391,9,
-Accoount 2392,9,
-Accoount 2393,9,
-Accoount 2394,9,
-Accoount 2395,0,Loyal High Spenders
-Accoount 2396,9,
-Accoount 2397,0,Loyal High Spenders
-Accoount 2398,0,Loyal High Spenders
-Accoount 2399,9,
-Accoount 2400,2,At-Risk or New Customers
-Accoount 2401,2,At-Risk or New Customers
+Accoount 2385,3,High Potential Prospects
+Accoount 2386,1,Occasional Bargain Seekers
+Accoount 2387,1,Occasional Bargain Seekers
+Accoount 2388,3,High Potential Prospects
+Accoount 2389,3,High Potential Prospects
+Accoount 2390,1,Occasional Bargain Seekers
+Accoount 2391,1,Occasional Bargain Seekers
+Accoount 2392,1,Occasional Bargain Seekers
+Accoount 2393,3,High Potential Prospects
+Accoount 2394,3,High Potential Prospects
+Accoount 2395,1,Occasional Bargain Seekers
+Accoount 2396,1,Occasional Bargain Seekers
+Accoount 2397,3,High Potential Prospects
+Accoount 2398,1,Occasional Bargain Seekers
+Accoount 2399,3,High Potential Prospects
+Accoount 2400,1,Occasional Bargain Seekers
+Accoount 2401,3,High Potential Prospects
 Accoount 2402,1,Occasional Bargain Seekers
-Accoount 2403,2,At-Risk or New Customers
-Accoount 2404,0,Loyal High Spenders
+Accoount 2403,3,High Potential Prospects
+Accoount 2404,1,Occasional Bargain Seekers
 Accoount 2405,1,Occasional Bargain Seekers
-Accoount 2406,7,
-Accoount 2407,2,At-Risk or New Customers
-Accoount 2408,2,At-Risk or New Customers
-Accoount 2409,9,
-Accoount 2410,9,
-Accoount 2411,2,At-Risk or New Customers
+Accoount 2406,0,Loyal High Spenders
+Accoount 2407,3,High Potential Prospects
+Accoount 2408,3,High Potential Prospects
+Accoount 2409,3,High Potential Prospects
+Accoount 2410,1,Occasional Bargain Seekers
+Accoount 2411,3,High Potential Prospects
 Accoount 2412,1,Occasional Bargain Seekers
 Accoount 2413,1,Occasional Bargain Seekers
-Accoount 2414,2,At-Risk or New Customers
-Accoount 2415,2,At-Risk or New Customers
+Accoount 2414,3,High Potential Prospects
+Accoount 2415,3,High Potential Prospects
 Accoount 2416,1,Occasional Bargain Seekers
 Accoount 2417,1,Occasional Bargain Seekers
-Accoount 2418,9,
+Accoount 2418,1,Occasional Bargain Seekers
 Accoount 2419,1,Occasional Bargain Seekers
-Accoount 2420,2,At-Risk or New Customers
+Accoount 2420,3,High Potential Prospects
 Accoount 2421,1,Occasional Bargain Seekers
-Accoount 2422,2,At-Risk or New Customers
-Accoount 2423,2,At-Risk or New Customers
+Accoount 2422,3,High Potential Prospects
+Accoount 2423,3,High Potential Prospects
 Accoount 2424,1,Occasional Bargain Seekers
 Accoount 2425,1,Occasional Bargain Seekers
-Accoount 2426,2,At-Risk or New Customers
-Accoount 2427,9,
-Accoount 2428,2,At-Risk or New Customers
-Accoount 2429,9,
-Accoount 2430,0,Loyal High Spenders
-Accoount 2431,0,Loyal High Spenders
-Accoount 2432,0,Loyal High Spenders
-Accoount 2433,0,Loyal High Spenders
-Accoount 2434,0,Loyal High Spenders
-Accoount 2435,9,
-Accoount 2436,0,Loyal High Spenders
+Accoount 2426,3,High Potential Prospects
+Accoount 2427,3,High Potential Prospects
+Accoount 2428,1,Occasional Bargain Seekers
+Accoount 2429,1,Occasional Bargain Seekers
+Accoount 2430,1,Occasional Bargain Seekers
+Accoount 2431,3,High Potential Prospects
+Accoount 2432,3,High Potential Prospects
+Accoount 2433,1,Occasional Bargain Seekers
+Accoount 2434,1,Occasional Bargain Seekers
+Accoount 2435,1,Occasional Bargain Seekers
+Accoount 2436,1,Occasional Bargain Seekers
 Accoount 2437,1,Occasional Bargain Seekers
-Accoount 2438,9,
-Accoount 2439,2,At-Risk or New Customers
-Accoount 2440,9,
-Accoount 2441,2,At-Risk or New Customers
-Accoount 2442,9,
-Accoount 2443,7,
-Accoount 2444,7,
+Accoount 2438,3,High Potential Prospects
+Accoount 2439,3,High Potential Prospects
+Accoount 2440,1,Occasional Bargain Seekers
+Accoount 2441,3,High Potential Prospects
+Accoount 2442,3,High Potential Prospects
+Accoount 2443,0,Loyal High Spenders
+Accoount 2444,0,Loyal High Spenders
 Accoount 2445,1,Occasional Bargain Seekers
 Accoount 2446,1,Occasional Bargain Seekers
 Accoount 2447,1,Occasional Bargain Seekers
-Accoount 2448,2,At-Risk or New Customers
-Accoount 2449,9,
-Accoount 2450,2,At-Risk or New Customers
-Accoount 2451,2,At-Risk or New Customers
+Accoount 2448,3,High Potential Prospects
+Accoount 2449,1,Occasional Bargain Seekers
+Accoount 2450,3,High Potential Prospects
+Accoount 2451,3,High Potential Prospects
 Accoount 2452,1,Occasional Bargain Seekers
 Accoount 2453,1,Occasional Bargain Seekers
 Accoount 2454,1,Occasional Bargain Seekers
 Accoount 2455,1,Occasional Bargain Seekers
-Accoount 2456,9,
-Accoount 2457,2,At-Risk or New Customers
+Accoount 2456,3,High Potential Prospects
+Accoount 2457,1,Occasional Bargain Seekers
 Accoount 2458,1,Occasional Bargain Seekers
-Accoount 2459,2,At-Risk or New Customers
+Accoount 2459,3,High Potential Prospects
 Accoount 2460,1,Occasional Bargain Seekers
-Accoount 2461,9,
-Accoount 2462,0,Loyal High Spenders
-Accoount 2463,9,
-Accoount 2464,9,
-Accoount 2465,9,
-Accoount 2466,0,Loyal High Spenders
-Accoount 2467,2,At-Risk or New Customers
-Accoount 2468,9,
-Accoount 2469,9,
-Accoount 2470,9,
-Accoount 2471,0,Loyal High Spenders
-Accoount 2472,0,Loyal High Spenders
-Accoount 2473,2,At-Risk or New Customers
-Accoount 2474,0,Loyal High Spenders
-Accoount 2475,2,At-Risk or New Customers
-Accoount 2476,2,At-Risk or New Customers
+Accoount 2461,1,Occasional Bargain Seekers
+Accoount 2462,3,High Potential Prospects
+Accoount 2463,1,Occasional Bargain Seekers
+Accoount 2464,3,High Potential Prospects
+Accoount 2465,3,High Potential Prospects
+Accoount 2466,3,High Potential Prospects
+Accoount 2467,1,Occasional Bargain Seekers
+Accoount 2468,1,Occasional Bargain Seekers
+Accoount 2469,3,High Potential Prospects
+Accoount 2470,1,Occasional Bargain Seekers
+Accoount 2471,3,High Potential Prospects
+Accoount 2472,1,Occasional Bargain Seekers
+Accoount 2473,1,Occasional Bargain Seekers
+Accoount 2474,3,High Potential Prospects
+Accoount 2475,3,High Potential Prospects
+Accoount 2476,3,High Potential Prospects
 Accoount 2477,1,Occasional Bargain Seekers
-Accoount 2478,2,At-Risk or New Customers
-Accoount 2479,0,Loyal High Spenders
-Accoount 2480,9,
-Accoount 2481,9,
-Accoount 2482,2,At-Risk or New Customers
-Accoount 2483,0,Loyal High Spenders
-Accoount 2484,2,At-Risk or New Customers
-Accoount 2485,0,Loyal High Spenders
-Accoount 2486,9,
-Accoount 2487,9,
+Accoount 2478,1,Occasional Bargain Seekers
+Accoount 2479,3,High Potential Prospects
+Accoount 2480,1,Occasional Bargain Seekers
+Accoount 2481,1,Occasional Bargain Seekers
+Accoount 2482,3,High Potential Prospects
+Accoount 2483,3,High Potential Prospects
+Accoount 2484,1,Occasional Bargain Seekers
+Accoount 2485,1,Occasional Bargain Seekers
+Accoount 2486,3,High Potential Prospects
+Accoount 2487,3,High Potential Prospects
 Accoount 2488,1,Occasional Bargain Seekers
-Accoount 2489,9,
-Accoount 2490,2,At-Risk or New Customers
+Accoount 2489,1,Occasional Bargain Seekers
+Accoount 2490,3,High Potential Prospects
 Accoount 2491,1,Occasional Bargain Seekers
-Accoount 2492,2,At-Risk or New Customers
-Accoount 2493,2,At-Risk or New Customers
-Accoount 2494,9,
-Accoount 2495,7,
-Accoount 2496,2,At-Risk or New Customers
-Accoount 2497,9,
+Accoount 2492,3,High Potential Prospects
+Accoount 2493,3,High Potential Prospects
+Accoount 2494,3,High Potential Prospects
+Accoount 2495,0,Loyal High Spenders
+Accoount 2496,3,High Potential Prospects
+Accoount 2497,1,Occasional Bargain Seekers
 Accoount 2498,1,Occasional Bargain Seekers
-Accoount 2499,2,At-Risk or New Customers
+Accoount 2499,3,High Potential Prospects
 Accoount 2500,1,Occasional Bargain Seekers
-Accoount 2501,2,At-Risk or New Customers
-Accoount 2502,2,At-Risk or New Customers
-Accoount 2503,9,
-Accoount 2504,9,
-Accoount 2505,9,
-Accoount 2506,9,
-Accoount 2507,9,
-Accoount 2508,9,
-Accoount 2509,2,At-Risk or New Customers
-Accoount 2510,2,At-Risk or New Customers
-Accoount 2511,2,At-Risk or New Customers
-Accoount 2512,9,
-Accoount 2513,9,
-Accoount 2514,2,At-Risk or New Customers
-Accoount 2515,7,
-Accoount 2516,2,At-Risk or New Customers
-Accoount 2517,0,Loyal High Spenders
-Accoount 2518,2,At-Risk or New Customers
-Accoount 2519,2,At-Risk or New Customers
-Accoount 2520,2,At-Risk or New Customers
-Accoount 2521,2,At-Risk or New Customers
-Accoount 2522,0,Loyal High Spenders
-Accoount 2523,9,
-Accoount 2524,9,
-Accoount 2525,9,
-Accoount 2526,0,Loyal High Spenders
-Accoount 2527,2,At-Risk or New Customers
-Accoount 2528,2,At-Risk or New Customers
-Accoount 2533,7,
-Accoount 2534,3,High Potential Prospects
-Accoount 2537,2,At-Risk or New Customers
+Accoount 2501,3,High Potential Prospects
+Accoount 2502,3,High Potential Prospects
+Accoount 2503,3,High Potential Prospects
+Accoount 2504,3,High Potential Prospects
+Accoount 2505,3,High Potential Prospects
+Accoount 2506,1,Occasional Bargain Seekers
+Accoount 2507,3,High Potential Prospects
+Accoount 2508,3,High Potential Prospects
+Accoount 2509,3,High Potential Prospects
+Accoount 2510,3,High Potential Prospects
+Accoount 2511,3,High Potential Prospects
+Accoount 2512,3,High Potential Prospects
+Accoount 2513,3,High Potential Prospects
+Accoount 2514,3,High Potential Prospects
+Accoount 2515,0,Loyal High Spenders
+Accoount 2516,3,High Potential Prospects
+Accoount 2517,3,High Potential Prospects
+Accoount 2518,3,High Potential Prospects
+Accoount 2519,3,High Potential Prospects
+Accoount 2520,3,High Potential Prospects
+Accoount 2521,3,High Potential Prospects
+Accoount 2522,1,Occasional Bargain Seekers
+Accoount 2523,1,Occasional Bargain Seekers
+Accoount 2524,1,Occasional Bargain Seekers
+Accoount 2525,1,Occasional Bargain Seekers
+Accoount 2526,3,High Potential Prospects
+Accoount 2527,3,High Potential Prospects
+Accoount 2528,3,High Potential Prospects
+Accoount 2529,0,Loyal High Spenders
+Accoount 2530,0,Loyal High Spenders
+Accoount 2531,0,Loyal High Spenders
+Accoount 2532,6,
+Accoount 2533,0,Loyal High Spenders
+Accoount 2534,4,
+Accoount 2535,8,
+Accoount 2536,7,
+Accoount 2537,3,High Potential Prospects
 Accoount 2538,1,Occasional Bargain Seekers
-Accoount 2539,9,
-Accoount 2540,9,
-Accoount 2542,7,
-Accoount 2545,8,
-Accoount 2546,8,
+Accoount 2539,1,Occasional Bargain Seekers
+Accoount 2540,1,Occasional Bargain Seekers
+Accoount 2541,6,
+Accoount 2542,0,Loyal High Spenders
+Accoount 2543,8,
+Accoount 2544,4,
+Accoount 2545,2,At-Risk or New Customers
+Accoount 2546,2,At-Risk or New Customers
+Accoount 2547,4,
 Accoount 2548,1,Occasional Bargain Seekers
-Accoount 2549,9,
-Accoount 2550,4,
-Accoount 2551,2,At-Risk or New Customers
-Accoount 2552,9,
-Accoount 2554,8,
-Accoount 2555,9,
-Accoount 2556,6,
-Accoount 2557,9,
-Accoount 2559,5,
-Accoount 2561,4,
-Accoount 2563,2,At-Risk or New Customers
-Accoount 2564,4,
-Accoount 2565,2,At-Risk or New Customers
-Accoount 2566,5,
-Accoount 2567,7,
-Accoount 2568,5,
-Accoount 2569,8,
-Accoount 2570,6,
-Accoount 2572,6,
+Accoount 2549,3,High Potential Prospects
+Accoount 2550,9,
+Accoount 2551,3,High Potential Prospects
+Accoount 2552,3,High Potential Prospects
+Accoount 2553,7,
+Accoount 2554,2,At-Risk or New Customers
+Accoount 2555,1,Occasional Bargain Seekers
+Accoount 2556,8,
+Accoount 2557,1,Occasional Bargain Seekers
+Accoount 2558,8,
+Accoount 2559,7,
+Accoount 2561,5,
+Accoount 2562,7,
+Accoount 2563,3,High Potential Prospects
+Accoount 2564,9,
+Accoount 2565,3,High Potential Prospects
+Accoount 2566,7,
+Accoount 2567,0,Loyal High Spenders
+Accoount 2568,8,
+Accoount 2569,2,At-Risk or New Customers
+Accoount 2570,8,
+Accoount 2571,8,
+Accoount 2572,8,
 Accoount 2573,1,Occasional Bargain Seekers
-Accoount 2574,2,At-Risk or New Customers
-Accoount 2576,2,At-Risk or New Customers
+Accoount 2574,3,High Potential Prospects
+Accoount 2575,6,
+Accoount 2576,3,High Potential Prospects
 Accoount 2577,1,Occasional Bargain Seekers
-Accoount 2578,2,At-Risk or New Customers
-Accoount 2584,2,At-Risk or New Customers
-Accoount 2585,2,At-Risk or New Customers
-Accoount 2587,2,At-Risk or New Customers
-Accoount 2588,2,At-Risk or New Customers
-Accoount 2589,9,
-Accoount 2591,5,
+Accoount 2578,3,High Potential Prospects
+Accoount 2580,6,
+Accoount 2581,8,
+Accoount 2582,7,
+Accoount 2583,8,
+Accoount 2584,3,High Potential Prospects
+Accoount 2585,3,High Potential Prospects
+Accoount 2586,4,
+Accoount 2587,3,High Potential Prospects
+Accoount 2588,3,High Potential Prospects
+Accoount 2589,1,Occasional Bargain Seekers
+Accoount 2590,4,
+Accoount 2591,7,
+Accoount 2592,2,At-Risk or New Customers
+Accoount 2593,6,
 Accoount 2594,5,
-Accoount 2596,3,High Potential Prospects
-Accoount 2597,6,
-Accoount 2598,4,
-Accoount 2601,2,At-Risk or New Customers
-Accoount 2602,5,
+Accoount 2595,7,
+Accoount 2596,4,
+Accoount 2597,4,
+Accoount 2598,5,
+Accoount 2599,6,
+Accoount 2600,7,
+Accoount 2601,3,High Potential Prospects
+Accoount 2602,7,
 Accoount 2603,1,Occasional Bargain Seekers
-Accoount 2604,9,
-Accoount 2605,0,Loyal High Spenders
-Accoount 2606,3,High Potential Prospects
-Accoount 2607,6,
-Accoount 2608,6,
-Accoount 2612,5,
-Accoount 2613,2,At-Risk or New Customers
-Accoount 2614,6,
-Accoount 2615,2,At-Risk or New Customers
-Accoount 2617,4,
-Accoount 2618,9,
-Accoount 2620,2,At-Risk or New Customers
-Accoount 2621,7,
-Accoount 2622,2,At-Risk or New Customers
-Accoount 2624,8,
-Accoount 2625,2,At-Risk or New Customers
+Accoount 2604,1,Occasional Bargain Seekers
+Accoount 2605,3,High Potential Prospects
+Accoount 2606,4,
+Accoount 2607,8,
+Accoount 2608,4,
+Accoount 2609,6,
+Accoount 2610,4,
+Accoount 2611,8,
+Accoount 2612,6,
+Accoount 2613,3,High Potential Prospects
+Accoount 2614,8,
+Accoount 2615,3,High Potential Prospects
+Accoount 2616,8,
+Accoount 2617,9,
+Accoount 2618,3,High Potential Prospects
+Accoount 2619,7,
+Accoount 2620,3,High Potential Prospects
+Accoount 2621,0,Loyal High Spenders
+Accoount 2622,3,High Potential Prospects
+Accoount 2623,6,
+Accoount 2624,2,At-Risk or New Customers
+Accoount 2625,3,High Potential Prospects
+Accoount 2626,9,
 Accoount 2627,5,
-Accoount 2628,3,High Potential Prospects
-Accoount 2629,5,
-Accoount 2630,4,
-Accoount 2631,2,At-Risk or New Customers
-Accoount 2632,6,
-Accoount 2634,7,
-Accoount 2637,2,At-Risk or New Customers
+Accoount 2628,8,
+Accoount 2629,7,
+Accoount 2630,9,
+Accoount 2631,3,High Potential Prospects
+Accoount 2632,8,
+Accoount 2634,0,Loyal High Spenders
+Accoount 2636,6,
+Accoount 2637,3,High Potential Prospects
 Accoount 2638,1,Occasional Bargain Seekers
 Accoount 2639,1,Occasional Bargain Seekers
-Accoount 2640,2,At-Risk or New Customers
-Accoount 2641,6,
-Accoount 2645,2,At-Risk or New Customers
-Accoount 2646,2,At-Risk or New Customers
-Accoount 2647,9,
+Accoount 2640,3,High Potential Prospects
+Accoount 2641,4,
+Accoount 2642,7,
+Accoount 2643,4,
+Accoount 2644,7,
+Accoount 2645,3,High Potential Prospects
+Accoount 2646,3,High Potential Prospects
+Accoount 2647,1,Occasional Bargain Seekers
 Accoount 2648,5,
-Accoount 2649,4,
-Accoount 2650,2,At-Risk or New Customers
-Accoount 2651,9,
-Accoount 2652,2,At-Risk or New Customers
-Accoount 2656,3,High Potential Prospects
-Accoount 2657,9,
-Accoount 2658,2,At-Risk or New Customers
-Accoount 2659,2,At-Risk or New Customers
-Accoount 2660,2,At-Risk or New Customers
-Accoount 2661,2,At-Risk or New Customers
-Accoount 2662,2,At-Risk or New Customers
-Accoount 2663,9,
-Accoount 2664,9,
-Accoount 2665,8,
-Accoount 2666,8,
-Accoount 2667,2,At-Risk or New Customers
-Accoount 2668,2,At-Risk or New Customers
-Accoount 2670,9,
-Accoount 2671,2,At-Risk or New Customers
-Accoount 2672,2,At-Risk or New Customers
-Accoount 2673,4,
+Accoount 2649,5,
+Accoount 2650,3,High Potential Prospects
+Accoount 2651,1,Occasional Bargain Seekers
+Accoount 2652,3,High Potential Prospects
+Accoount 2653,7,
+Accoount 2654,6,
+Accoount 2655,8,
+Accoount 2656,4,
+Accoount 2657,1,Occasional Bargain Seekers
+Accoount 2658,3,High Potential Prospects
+Accoount 2659,3,High Potential Prospects
+Accoount 2660,3,High Potential Prospects
+Accoount 2661,3,High Potential Prospects
+Accoount 2662,3,High Potential Prospects
+Accoount 2663,3,High Potential Prospects
+Accoount 2664,1,Occasional Bargain Seekers
+Accoount 2665,2,At-Risk or New Customers
+Accoount 2666,2,At-Risk or New Customers
+Accoount 2667,3,High Potential Prospects
+Accoount 2668,3,High Potential Prospects
+Accoount 2670,3,High Potential Prospects
+Accoount 2671,3,High Potential Prospects
+Accoount 2672,3,High Potential Prospects
+Accoount 2673,9,
+Accoount 2674,4,
+Accoount 2675,8,
+Accoount 2676,6,
 Accoount 2677,5,
-Accoount 2678,3,High Potential Prospects
-Accoount 2679,2,At-Risk or New Customers
-Accoount 2680,9,
+Accoount 2678,0,Loyal High Spenders
+Accoount 2679,3,High Potential Prospects
+Accoount 2680,3,High Potential Prospects
 Accoount 2681,5,
-Accoount 2682,2,At-Risk or New Customers
-Accoount 2683,3,High Potential Prospects
-Accoount 2685,5,
-Accoount 2687,6,
-Accoount 2689,3,High Potential Prospects
-Accoount 2690,2,At-Risk or New Customers
+Accoount 2682,3,High Potential Prospects
+Accoount 2683,4,
+Accoount 2685,6,
+Accoount 2686,8,
+Accoount 2687,4,
+Accoount 2688,6,
+Accoount 2689,8,
+Accoount 2690,3,High Potential Prospects
 Accoount 2691,1,Occasional Bargain Seekers
-Accoount 2692,2,At-Risk or New Customers
-Accoount 2693,2,At-Risk or New Customers
-Accoount 2695,4,
-Accoount 2696,4,
-Accoount 2697,9,
-Accoount 2698,8,
-Accoount 2699,4,
-Accoount 2700,6,
-Accoount 2701,7,
-Accoount 2703,5,
-Accoount 2704,9,
-Accoount 2705,5,
-Accoount 2706,6,
-Accoount 2707,2,At-Risk or New Customers
-Accoount 2708,5,
-Accoount 2709,4,
-Accoount 2712,6,
-Accoount 2713,5,
-Accoount 2714,2,At-Risk or New Customers
-Accoount 2715,4,
-Accoount 2716,2,At-Risk or New Customers
-Accoount 2717,9,
-Accoount 2719,2,At-Risk or New Customers
-Accoount 2722,8,
-Accoount 2723,2,At-Risk or New Customers
-Accoount 2724,9,
-Accoount 2725,5,
-Accoount 2727,3,High Potential Prospects
-Accoount 2728,6,
-Accoount 2729,4,
-Accoount 2730,2,At-Risk or New Customers
-Accoount 2731,6,
-Accoount 2733,5,
-Accoount 2734,2,At-Risk or New Customers
-Accoount 2737,8,
-Accoount 2739,2,At-Risk or New Customers
-Accoount 2742,9,
-Accoount 2743,2,At-Risk or New Customers
-Accoount 2744,2,At-Risk or New Customers
-Accoount 2747,5,
-Accoount 2748,2,At-Risk or New Customers
-Accoount 2749,4,
-Accoount 2751,4,
-Accoount 2753,2,At-Risk or New Customers
-Accoount 2755,5,
-Accoount 2756,4,
-Accoount 2758,3,High Potential Prospects
-Accoount 2759,4,
-Accoount 2763,2,At-Risk or New Customers
-Accoount 2765,4,
-Accoount 2767,3,High Potential Prospects
-Accoount 2769,9,
-Accoount 2770,2,At-Risk or New Customers
-Accoount 2771,8,
-Accoount 2772,2,At-Risk or New Customers
-Accoount 2773,2,At-Risk or New Customers
-Accoount 2774,2,At-Risk or New Customers
-Accoount 2775,2,At-Risk or New Customers
-Accoount 2776,2,At-Risk or New Customers
-Accoount 2777,3,High Potential Prospects
-Accoount 2778,8,
-Accoount 2779,4,
-Accoount 2780,6,
-Accoount 2781,5,
-Accoount 2782,2,At-Risk or New Customers
-Accoount 2783,2,At-Risk or New Customers
+Accoount 2692,3,High Potential Prospects
+Accoount 2693,3,High Potential Prospects
+Accoount 2695,9,
+Accoount 2696,9,
+Accoount 2697,1,Occasional Bargain Seekers
+Accoount 2698,2,At-Risk or New Customers
+Accoount 2699,9,
+Accoount 2700,8,
+Accoount 2701,0,Loyal High Spenders
+Accoount 2703,6,
+Accoount 2704,3,High Potential Prospects
+Accoount 2705,6,
+Accoount 2706,4,
+Accoount 2707,3,High Potential Prospects
+Accoount 2708,6,
+Accoount 2709,9,
+Accoount 2710,4,
+Accoount 2711,6,
+Accoount 2712,4,
+Accoount 2713,7,
+Accoount 2714,3,High Potential Prospects
+Accoount 2715,9,
+Accoount 2716,3,High Potential Prospects
+Accoount 2717,3,High Potential Prospects
+Accoount 2718,6,
+Accoount 2719,3,High Potential Prospects
+Accoount 2721,6,
+Accoount 2722,2,At-Risk or New Customers
+Accoount 2723,3,High Potential Prospects
+Accoount 2724,1,Occasional Bargain Seekers
+Accoount 2725,7,
+Accoount 2726,8,
+Accoount 2727,8,
+Accoount 2728,4,
+Accoount 2729,9,
+Accoount 2730,3,High Potential Prospects
+Accoount 2731,8,
+Accoount 2732,8,
+Accoount 2733,7,
+Accoount 2734,3,High Potential Prospects
+Accoount 2735,6,
+Accoount 2736,6,
+Accoount 2737,2,At-Risk or New Customers
+Accoount 2738,8,
+Accoount 2739,3,High Potential Prospects
+Accoount 2740,2,At-Risk or New Customers
+Accoount 2741,6,
+Accoount 2742,3,High Potential Prospects
+Accoount 2743,3,High Potential Prospects
+Accoount 2744,3,High Potential Prospects
+Accoount 2745,8,
+Accoount 2746,8,
+Accoount 2747,7,
+Accoount 2748,3,High Potential Prospects
+Accoount 2749,9,
+Accoount 2750,2,At-Risk or New Customers
+Accoount 2751,9,
+Accoount 2752,7,
+Accoount 2753,3,High Potential Prospects
+Accoount 2755,6,
+Accoount 2756,9,
+Accoount 2757,6,
+Accoount 2758,4,
+Accoount 2759,9,
+Accoount 2760,6,
+Accoount 2762,5,
+Accoount 2763,3,High Potential Prospects
+Accoount 2765,9,
+Accoount 2766,8,
+Accoount 2767,8,
+Accoount 2769,1,Occasional Bargain Seekers
+Accoount 2770,3,High Potential Prospects
+Accoount 2772,3,High Potential Prospects
+Accoount 2773,3,High Potential Prospects
+Accoount 2774,3,High Potential Prospects
+Accoount 2775,1,Occasional Bargain Seekers
+Accoount 2776,3,High Potential Prospects
+Accoount 2777,8,
+Accoount 2778,6,
+Accoount 2779,9,
+Accoount 2780,4,
+Accoount 2781,7,
+Accoount 2782,3,High Potential Prospects
+Accoount 2783,3,High Potential Prospects
 Accoount 2784,1,Occasional Bargain Seekers
-Accoount 2785,8,
-Accoount 2786,2,At-Risk or New Customers
-Accoount 2788,6,
-Accoount 2789,2,At-Risk or New Customers
-Accoount 2790,2,At-Risk or New Customers
-Accoount 2791,2,At-Risk or New Customers
-Accoount 2792,6,
-Accoount 2793,4,
-Accoount 2794,4,
+Accoount 2785,2,At-Risk or New Customers
+Accoount 2786,3,High Potential Prospects
+Accoount 2787,2,At-Risk or New Customers
+Accoount 2788,4,
+Accoount 2789,3,High Potential Prospects
+Accoount 2790,1,Occasional Bargain Seekers
+Accoount 2791,3,High Potential Prospects
+Accoount 2792,8,
+Accoount 2793,9,
+Accoount 2794,5,
 Accoount 2795,1,Occasional Bargain Seekers
-Accoount 2797,2,At-Risk or New Customers
-Accoount 2798,9,
-Accoount 2800,5,
-Accoount 2801,5,
-Accoount 2802,3,High Potential Prospects
+Accoount 2796,4,
+Accoount 2797,3,High Potential Prospects
+Accoount 2798,3,High Potential Prospects
+Accoount 2799,6,
+Accoount 2800,6,
+Accoount 2801,6,
+Accoount 2802,5,
 Accoount 2803,1,Occasional Bargain Seekers
 Accoount 2804,1,Occasional Bargain Seekers
 Accoount 2805,1,Occasional Bargain Seekers
@@ -2336,16 +2754,17 @@ Accoount 2813,1,Occasional Bargain Seekers
 Accoount 2814,1,Occasional Bargain Seekers
 Accoount 2815,1,Occasional Bargain Seekers
 Accoount 2816,1,Occasional Bargain Seekers
-Accoount 2817,7,
+Accoount 2817,1,Occasional Bargain Seekers
 Accoount 2818,1,Occasional Bargain Seekers
 Accoount 2819,1,Occasional Bargain Seekers
 Accoount 2820,1,Occasional Bargain Seekers
 Accoount 2821,1,Occasional Bargain Seekers
 Accoount 2822,1,Occasional Bargain Seekers
-Accoount 2823,7,
-Accoount 2825,7,
-Accoount 2826,7,
-Accoount 2827,7,
+Accoount 2823,1,Occasional Bargain Seekers
+Accoount 2824,0,Loyal High Spenders
+Accoount 2825,0,Loyal High Spenders
+Accoount 2826,0,Loyal High Spenders
+Accoount 2827,0,Loyal High Spenders
 Accoount 2828,1,Occasional Bargain Seekers
 Accoount 2829,1,Occasional Bargain Seekers
 Accoount 2830,1,Occasional Bargain Seekers
@@ -2365,15 +2784,15 @@ Accoount 2843,1,Occasional Bargain Seekers
 Accoount 2844,1,Occasional Bargain Seekers
 Accoount 2845,1,Occasional Bargain Seekers
 Accoount 2846,1,Occasional Bargain Seekers
-Accoount 2847,7,
+Accoount 2847,0,Loyal High Spenders
 Accoount 2848,1,Occasional Bargain Seekers
-Accoount 2849,7,
+Accoount 2849,1,Occasional Bargain Seekers
 Accoount 2850,1,Occasional Bargain Seekers
 Accoount 2851,1,Occasional Bargain Seekers
 Accoount 2852,1,Occasional Bargain Seekers
 Accoount 2853,1,Occasional Bargain Seekers
-Accoount 2854,7,
-Accoount 2855,7,
+Accoount 2854,0,Loyal High Spenders
+Accoount 2855,0,Loyal High Spenders
 Accoount 2856,1,Occasional Bargain Seekers
 Accoount 2857,1,Occasional Bargain Seekers
 Accoount 2858,1,Occasional Bargain Seekers
@@ -2386,12 +2805,12 @@ Accoount 2864,1,Occasional Bargain Seekers
 Accoount 2865,1,Occasional Bargain Seekers
 Accoount 2866,1,Occasional Bargain Seekers
 Accoount 2867,1,Occasional Bargain Seekers
-Accoount 2868,7,
-Accoount 2869,7,
+Accoount 2868,0,Loyal High Spenders
+Accoount 2869,1,Occasional Bargain Seekers
 Accoount 2870,1,Occasional Bargain Seekers
 Accoount 2871,1,Occasional Bargain Seekers
-Accoount 2872,7,
-Accoount 2873,7,
+Accoount 2872,1,Occasional Bargain Seekers
+Accoount 2873,0,Loyal High Spenders
 Accoount 2874,1,Occasional Bargain Seekers
 Accoount 2875,1,Occasional Bargain Seekers
 Accoount 2876,1,Occasional Bargain Seekers
@@ -2409,8 +2828,9 @@ Accoount 2887,1,Occasional Bargain Seekers
 Accoount 2888,1,Occasional Bargain Seekers
 Accoount 2889,1,Occasional Bargain Seekers
 Accoount 2890,1,Occasional Bargain Seekers
-Accoount 2891,7,
-Accoount 2893,7,
+Accoount 2891,0,Loyal High Spenders
+Accoount 2892,0,Loyal High Spenders
+Accoount 2893,0,Loyal High Spenders
 Accoount 2894,1,Occasional Bargain Seekers
 Accoount 2895,1,Occasional Bargain Seekers
 Accoount 2896,1,Occasional Bargain Seekers
@@ -2418,6 +2838,7 @@ Accoount 2897,1,Occasional Bargain Seekers
 Accoount 2898,1,Occasional Bargain Seekers
 Accoount 2899,1,Occasional Bargain Seekers
 Accoount 2900,1,Occasional Bargain Seekers
+Accoount 2901,0,Loyal High Spenders
 Accoount 2902,1,Occasional Bargain Seekers
 Accoount 2903,1,Occasional Bargain Seekers
 Accoount 2904,1,Occasional Bargain Seekers
@@ -2438,11 +2859,11 @@ Accoount 2918,1,Occasional Bargain Seekers
 Accoount 2919,1,Occasional Bargain Seekers
 Accoount 2920,1,Occasional Bargain Seekers
 Accoount 2921,1,Occasional Bargain Seekers
-Accoount 2922,7,
+Accoount 2922,0,Loyal High Spenders
 Accoount 2923,1,Occasional Bargain Seekers
 Accoount 2924,1,Occasional Bargain Seekers
 Accoount 2925,1,Occasional Bargain Seekers
-Accoount 2926,7,
+Accoount 2926,1,Occasional Bargain Seekers
 Accoount 2927,1,Occasional Bargain Seekers
 Accoount 2928,1,Occasional Bargain Seekers
 Accoount 2929,1,Occasional Bargain Seekers
@@ -2503,45 +2924,47 @@ Accoount 2983,1,Occasional Bargain Seekers
 Accoount 2984,1,Occasional Bargain Seekers
 Accoount 2985,1,Occasional Bargain Seekers
 Accoount 2986,1,Occasional Bargain Seekers
-Accoount 2987,7,
+Accoount 2987,0,Loyal High Spenders
 Accoount 2988,1,Occasional Bargain Seekers
 Accoount 2989,1,Occasional Bargain Seekers
 Accoount 2990,1,Occasional Bargain Seekers
 Accoount 2991,1,Occasional Bargain Seekers
 Accoount 2992,1,Occasional Bargain Seekers
 Accoount 2993,1,Occasional Bargain Seekers
-Accoount 2994,7,
-Accoount 2995,9,
-Accoount 2996,9,
-Accoount 2997,2,At-Risk or New Customers
-Accoount 2998,9,
-Accoount 2999,9,
-Accoount 3000,5,
-Accoount 3001,9,
-Accoount 3002,5,
-Accoount 3003,9,
-Accoount 3004,9,
-Accoount 3006,9,
-Accoount 3007,9,
-Accoount 3008,9,
+Accoount 2994,1,Occasional Bargain Seekers
+Accoount 2995,1,Occasional Bargain Seekers
+Accoount 2996,1,Occasional Bargain Seekers
+Accoount 2997,1,Occasional Bargain Seekers
+Accoount 2998,1,Occasional Bargain Seekers
+Accoount 2999,1,Occasional Bargain Seekers
+Accoount 3000,1,Occasional Bargain Seekers
+Accoount 3001,1,Occasional Bargain Seekers
+Accoount 3002,3,High Potential Prospects
+Accoount 3003,3,High Potential Prospects
+Accoount 3004,3,High Potential Prospects
+Accoount 3005,5,
+Accoount 3006,3,High Potential Prospects
+Accoount 3007,3,High Potential Prospects
+Accoount 3008,3,High Potential Prospects
 Accoount 3009,1,Occasional Bargain Seekers
-Accoount 3010,2,At-Risk or New Customers
-Accoount 3011,9,
-Accoount 3012,9,
-Accoount 3014,4,
-Accoount 3015,2,At-Risk or New Customers
-Accoount 3016,9,
-Accoount 3017,2,At-Risk or New Customers
-Accoount 3018,9,
-Accoount 3019,9,
+Accoount 3010,3,High Potential Prospects
+Accoount 3011,3,High Potential Prospects
+Accoount 3012,3,High Potential Prospects
+Accoount 3013,1,Occasional Bargain Seekers
+Accoount 3014,9,
+Accoount 3015,3,High Potential Prospects
+Accoount 3016,1,Occasional Bargain Seekers
+Accoount 3017,3,High Potential Prospects
+Accoount 3018,3,High Potential Prospects
+Accoount 3019,3,High Potential Prospects
 Accoount 3020,1,Occasional Bargain Seekers
-Accoount 3021,9,
-Accoount 3022,9,
+Accoount 3021,3,High Potential Prospects
+Accoount 3022,1,Occasional Bargain Seekers
 Accoount 3023,1,Occasional Bargain Seekers
 Accoount 3024,1,Occasional Bargain Seekers
 Accoount 3025,1,Occasional Bargain Seekers
-Accoount 3026,2,At-Risk or New Customers
-Accoount 3027,2,At-Risk or New Customers
-Accoount 3028,9,
+Accoount 3026,3,High Potential Prospects
+Accoount 3027,3,High Potential Prospects
+Accoount 3028,1,Occasional Bargain Seekers
 Accoount 3029,1,Occasional Bargain Seekers
-Accoount 3030,2,At-Risk or New Customers
+Accoount 3030,3,High Potential Prospects
